@@ -1,5 +1,6 @@
 # DA-BC-Project-One
-First Project for UofT Data Analytics Bootcamp n/
+First Project for UofT Data Analytics Bootcamp 
+
 Areas of Focus:
 1. Excel
 2. VBA

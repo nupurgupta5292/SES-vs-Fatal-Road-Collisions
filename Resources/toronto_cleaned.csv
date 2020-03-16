@@ -1,611 +1,612 @@
-Longitude,Latitude,District,Year,Vehicle Type,Date,Hour,Road Type,Road Conditions,Red Light,Alcohol,Aggressive/Distracted Driving,Pedestrian,Cyclist,Automobile,Motorcycle,Truck
--79.45827,43.650427,Toronto and East York,2018,Motorcycle,2018-09-15T04:00:00.000Z,2,Major Arterial,Dry, , , , , ,Yes,Yes, 
--79.334277,43.666098,Toronto and East York,2018,Bicycle,2018-05-16T04:00:00.000Z,8,Minor Arterial,Dry, , ,Yes, ,Yes, , ,Yes
--79.52972,43.68162,Etobicoke York,2018,"Automobile, Station Wagon",2018-01-07T05:00:00.000Z,18,Major Arterial,Other, ,Yes,Yes, , ,Yes, , 
--79.27509599999999,43.730475,Scarborough,2018, ,2018-01-09T05:00:00.000Z,18,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.508113,43.719008,North York,2018, ,2018-04-13T04:00:00.000Z,15,Major Arterial, , , ,Yes,Yes, ,Yes, , 
--79.202304,43.783128999999995,Scarborough,2018, ,2018-11-12T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.350383,43.718589,North York,2018,Passenger Van,2018-08-16T04:00:00.000Z,15,Major Arterial,Dry, , , , , ,Yes, ,Yes
--79.458881,43.637709,Toronto and East York,2018,Bicycle,2018-05-15T04:00:00.000Z,15,Major Arterial,Dry,Yes, ,Yes, ,Yes,Yes, , 
--79.35094000000001,43.658515,Toronto and East York,2018,Bicycle,2018-10-08T04:00:00.000Z,20,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.452075,43.702281,North York,2018, ,2018-06-11T04:00:00.000Z,15,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.53622,43.753218,Etobicoke York,2018,"Automobile, Station Wagon",2018-04-23T04:00:00.000Z,0,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.499957,43.623107,Etobicoke York,2018, ,2018-03-21T04:00:00.000Z,3,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.512874,43.599005,Etobicoke York,2018, ,2018-05-15T04:00:00.000Z,22,Major Arterial, , ,Yes,Yes, , ,Yes, , 
--79.299571,43.800383000000004,Scarborough,2018, ,2018-12-07T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.232578,43.741534,Scarborough,2018, ,2018-11-25T05:00:00.000Z,17,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.57712099999999,43.705172,Etobicoke York,2018,Motorcycle,2018-05-30T04:00:00.000Z,3,Major Arterial, , , ,Yes, , , ,Yes,Yes
--79.413097,43.777663000000004,North York,2018,"Automobile, Station Wagon",2018-07-25T04:00:00.000Z,0,Minor Arterial,Wet, , ,Yes, , ,Yes, , 
--79.282741,43.773322,Scarborough,2018, ,2018-02-21T05:00:00.000Z,18,Collector,Dry, , , ,Yes, , , ,Yes
--79.29249899999999,43.782229,Scarborough,2018, ,2018-09-26T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.49109200000001,43.724532,North York,2018, ,2018-03-29T04:00:00.000Z,12,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.43934899999999,43.69797,Toronto and East York,2018, ,2018-07-26T04:00:00.000Z,0,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.254787,43.706175,Scarborough,2018, ,2018-08-06T04:00:00.000Z,9,Local,Dry, , ,Yes,Yes, ,Yes, , 
--79.306857,43.818521999999994,Scarborough,2018, ,2018-02-27T05:00:00.000Z,15,Collector,Dry, , , ,Yes, ,Yes, , 
--79.402156,43.725032,North York,2018, ,2018-05-15T04:00:00.000Z,9,Major Arterial, , , ,Yes,Yes, ,Yes, , 
--79.383662,43.68439,Toronto and East York,2018,Motorcycle,2018-03-28T04:00:00.000Z,17,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.307048,43.823569,Scarborough,2018, ,2018-05-29T04:00:00.000Z,9,Major Arterial,Dry, , , , , , , , 
--79.382091,43.649542,Toronto and East York,2018, ,2018-01-05T05:00:00.000Z,11,Major Arterial,Other, , ,Yes,Yes, ,Yes, , 
--79.213535,43.814105,Scarborough,2018,"Automobile, Station Wagon",2018-04-21T04:00:00.000Z,23,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.32454200000001,43.81428,Scarborough,2018, ,2018-01-24T05:00:00.000Z,11,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.583987,43.688479,Etobicoke York,2018, ,2018-05-04T04:00:00.000Z,23,Major Arterial, , , , ,Yes, ,Yes, , 
--79.426227,43.663294,Toronto and East York,2018,Other,2018-10-18T04:00:00.000Z,12,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.58575,43.750846,Etobicoke York,2018, ,2018-11-01T04:00:00.000Z,20,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.520046,43.633887,Etobicoke York,2018,Motorcycle,2018-07-29T04:00:00.000Z,10,Collector,Dry, , , , , , ,Yes, 
--79.488223,43.727903999999995,North York,2018, ,2018-01-15T05:00:00.000Z,15,Local,Loose Snow, , , ,Yes, ,Yes, , 
--79.392772,43.788287,North York,2018,"Automobile, Station Wagon",2018-02-17T05:00:00.000Z,23,Major Arterial, , , ,Yes, , ,Yes, , 
--79.399799,43.667445,Toronto and East York,2018,Bicycle,2018-06-12T04:00:00.000Z,12,Major Arterial,Dry, , , , ,Yes, , ,Yes
--79.443141,43.716181,North York,2018, ,2018-11-20T05:00:00.000Z,18,Expressway,Dry, , ,Yes,Yes, , , , 
--79.438556,43.736334,North York,2018,"Automobile, Station Wagon",2018-05-20T04:00:00.000Z,23,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.16299000000001,43.786017,Scarborough,2018, ,2018-08-09T04:00:00.000Z,0,Expressway, , , , ,Yes, ,Yes, , 
--79.562267,43.747714,Etobicoke York,2018, ,2018-02-02T05:00:00.000Z,9,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.369693,43.663325,Toronto and East York,2018, ,2018-09-21T04:00:00.000Z,16,Laneway,Dry, , , ,Yes, ,Yes, , 
--79.398158,43.658187,Toronto and East York,2018, ,2018-03-15T04:00:00.000Z,2,Major Arterial,Dry, ,Yes,Yes,Yes, ,Yes, , 
--79.394183,43.675101,Toronto and East York,2018, ,2018-12-22T05:00:00.000Z,6,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.282733,43.716109,Scarborough,2018, ,2018-07-30T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.245151,43.837934999999995,Scarborough,2018, ,2018-01-07T05:00:00.000Z,21,Major Arterial,Other, , , ,Yes, ,Yes, , 
--79.451724,43.700686,North York,2018, ,2018-09-20T04:00:00.000Z,16,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.44089100000001,43.765390999999994,North York,2018, ,2018-02-20T05:00:00.000Z,16,Major Arterial,Wet, , ,Yes,Yes, , , ,Yes
--79.267612,43.758383,Scarborough,2018, ,2018-12-04T05:00:00.000Z,19,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.22932,43.756827,Scarborough,2018, ,2018-03-02T05:00:00.000Z,19,Collector,Other, , , ,Yes, ,Yes, , 
--79.504077,43.600909,Etobicoke York,2018,Other,2018-09-11T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.427638,43.630686,Toronto and East York,2018,Motorcycle,2018-06-02T04:00:00.000Z,19,Major Arterial, , , , , , ,Yes,Yes, 
--79.361987,43.692008,Toronto and East York,2018,"Automobile, Station Wagon",2018-01-01T05:00:00.000Z,1,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.415889,43.722941,North York,2018,"Automobile, Station Wagon",2018-11-01T04:00:00.000Z,17,Major Arterial,Dry, , , , , ,Yes, , 
--79.291301,43.763327000000004,Scarborough,2018, ,2018-11-09T05:00:00.000Z,6,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.52977299999999,43.647521000000005,Etobicoke York,2018, ,2018-12-26T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.589862,43.759535,Etobicoke York,2018, ,2018-06-29T04:00:00.000Z,1,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.469287,43.637206,Toronto and East York,2018, ,2018-10-01T04:00:00.000Z,6,Major Arterial,Wet, , , ,Yes, , , , 
--79.247051,43.719565,Scarborough,2018, ,2018-09-26T04:00:00.000Z,7,Minor Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.259883,43.716772999999996,Scarborough,2018,Motorcycle,2018-06-14T04:00:00.000Z,5,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.406253,43.762419,North York,2018, ,2018-10-08T04:00:00.000Z,1,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.525653,43.599353,Etobicoke York,2018, ,2018-09-05T04:00:00.000Z,14,Local,Dry, , , ,Yes, , , ,Yes
--79.411601,43.703868,Toronto and East York,2018, ,2018-06-23T04:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.520099,43.695372,Etobicoke York,2018,Motorcycle,2018-10-05T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.26992299999999,43.790507,Scarborough,2018, ,2018-01-02T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.239131,43.767378,Scarborough,2018,Motorcycle,2018-08-10T04:00:00.000Z,20,Minor Arterial,Dry,Yes, ,Yes, , ,Yes,Yes, 
--79.472026,43.683169,Etobicoke York,2018,Motorcycle,2018-09-18T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.24006999999999,43.793504999999996,Scarborough,2017, ,2017-06-13T04:00:00.000Z,16,Major Arterial,Dry, , , , , ,Yes, , 
--79.26977099999999,43.711009000000004,Scarborough,2017, ,2017-09-28T04:00:00.000Z,16,Minor Arterial,Dry, ,Yes,Yes,Yes, ,Yes, , 
--79.311122,43.758727,Scarborough,2017,"Automobile, Station Wagon",2017-05-16T04:00:00.000Z,11,Major Arterial,Dry, , , , , ,Yes, , 
--79.471744,43.652056,Toronto and East York,2017,"Automobile, Station Wagon",2017-03-07T05:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.501659,43.768195,Etobicoke York,2017, ,2017-10-03T04:00:00.000Z,16,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.250186,43.741065,Scarborough,2017,"Automobile, Station Wagon",2017-02-02T05:00:00.000Z,2,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.390872,43.779303000000006,North York,2017, ,2017-05-31T04:00:00.000Z,9,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.397746,43.745096999999994,North York,2017,"Automobile, Station Wagon",2017-03-19T04:00:00.000Z,2,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.509639,43.7396,North York,2017, ,2017-03-04T05:00:00.000Z,10,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.380771,43.649821,Toronto and East York,2017, ,2017-02-23T05:00:00.000Z,10,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.24901899999999,43.83705,Scarborough,2017, ,2017-08-27T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.380786,43.795336,North York,2017,"Automobile, Station Wagon",2017-04-13T04:00:00.000Z,1,Collector,Dry, , ,Yes, , ,Yes, , 
--79.251254,43.706267,Scarborough,2017, ,2017-06-03T04:00:00.000Z,11,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.30125699999999,43.763490999999995,Scarborough,2017, ,2017-09-27T04:00:00.000Z,21,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.495136,43.685427000000004,Etobicoke York,2017, ,2017-12-18T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.211665,43.816607,Scarborough,2017, ,2017-05-05T04:00:00.000Z,23,Minor Arterial, , , , , , ,Yes, , 
--79.428958,43.649501,Toronto and East York,2017, ,2017-08-25T04:00:00.000Z,11,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.458873,43.73202,North York,2017, ,2017-04-11T04:00:00.000Z,10,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.370532,43.658351,Toronto and East York,2017, ,2017-08-15T04:00:00.000Z,4,Major Arterial,Wet, , , ,Yes, , , , 
--79.519672,43.604773,Etobicoke York,2017,Pick Up Truck,2017-02-18T05:00:00.000Z,0,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.260021,43.734023,Scarborough,2017, ,2017-07-18T04:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, , , , 
--79.472667,43.633497999999996,Toronto and East York,2017,"Automobile, Station Wagon",2017-01-29T05:00:00.000Z,3,Expressway,Dry, ,Yes,Yes, , ,Yes, , 
--79.39563299999999,43.637957,Toronto and East York,2017, ,2017-01-29T05:00:00.000Z,1,Expressway,Dry, , , ,Yes, ,Yes, , 
--79.542079,43.592673,Etobicoke York,2017,Delivery Van,2017-01-21T05:00:00.000Z,0,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.40224,43.725344,North York,2017, ,2017-10-05T04:00:00.000Z,3,Major Arterial,Dry, , , ,Yes, , , , 
--79.243045,43.720442,Scarborough,2017,"Automobile, Station Wagon",2017-08-26T04:00:00.000Z,10,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.20591999999999,43.749583,Scarborough,2017, ,2017-12-17T05:00:00.000Z,0,Major Arterial,Other, , ,Yes, , , , , 
--79.431827,43.63795,Toronto and East York,2017,Bicycle,2017-10-18T04:00:00.000Z,9,Major Arterial,Dry, , ,Yes, ,Yes,Yes, , 
--79.422664,43.654326,Toronto and East York,2017,Bicycle,2017-12-20T05:00:00.000Z,11,Major Arterial,Other, , , , ,Yes, , ,Yes
--79.484439,43.64926,Toronto and East York,2017,Motorcycle,2017-07-18T04:00:00.000Z,15,Major Arterial,Dry, , , , , , ,Yes,Yes
--79.287677,43.764189,Scarborough,2017, ,2017-01-08T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.292102,43.738906,Scarborough,2017, ,2017-11-10T05:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.446689,43.756312,North York,2017, ,2017-09-05T04:00:00.000Z,18,Local,Dry, , ,Yes,Yes, ,Yes, , 
--79.251239,43.701213,Scarborough,2017, ,2017-04-06T04:00:00.000Z,14,Local,Wet, , , , , , , ,Yes
--79.17908,43.793753,Scarborough,2017, ,2017-04-21T04:00:00.000Z,15,Collector,Dry, , , ,Yes, ,Yes, , 
--79.61201,43.720431,Etobicoke York,2017, ,2017-03-04T05:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.37099,43.658221000000005,Toronto and East York,2017, ,2017-07-31T04:00:00.000Z,7,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.26276700000001,43.827811,Scarborough,2017, ,2017-12-20T05:00:00.000Z,18,Collector,Other, , , ,Yes, ,Yes, , 
--79.38985799999999,43.679961,Toronto and East York,2017, ,2017-12-03T05:00:00.000Z,12,Local,Dry, , , ,Yes, ,Yes, , 
--79.494518,43.676146,Etobicoke York,2017,Bicycle,2017-06-30T04:00:00.000Z,13,Collector,Dry, , , , ,Yes,Yes, , 
--79.61288,43.755641,Etobicoke York,2017, ,2017-09-15T04:00:00.000Z,6,Major Arterial,Dry, , ,Yes, , ,Yes, ,Yes
--79.366107,43.781909000000006,North York,2017,Motorcycle,2017-04-26T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.36806,43.680995,Toronto and East York,2017,Motorcycle,2017-07-08T04:00:00.000Z,20,Major Arterial,Dry, , , , , ,Yes,Yes, 
--79.49446400000001,43.781508,North York,2017, ,2017-10-31T04:00:00.000Z,22,Major Arterial,Other, , ,Yes, , ,Yes, , 
--79.37889399999999,43.667636,Toronto and East York,2017, ,2017-03-18T04:00:00.000Z,19,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.542331,43.752016999999995,Etobicoke York,2017,"Automobile, Station Wagon",2017-01-25T05:00:00.000Z,14,Major Arterial,Wet,Yes, ,Yes, , ,Yes, ,Yes
--79.35718100000001,43.682852000000004,Toronto and East York,2017, ,2017-09-20T04:00:00.000Z,19,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.37382099999999,43.648543,Toronto and East York,2017, ,2017-12-15T05:00:00.000Z,12,Minor Arterial,Other, , ,Yes,Yes, , , ,Yes
--79.36725899999999,43.648974,Toronto and East York,2017, ,2017-01-03T05:00:00.000Z,7,Minor Arterial,Wet, , , ,Yes, ,Yes, , 
--79.274997,43.829547,Scarborough,2017, ,2017-09-28T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.560214,43.621218,Etobicoke York,2017,"Automobile, Station Wagon",2017-11-02T04:00:00.000Z,8,Minor Arterial, , , ,Yes, , ,Yes, , 
--79.27088499999999,43.687686,Scarborough,2017, ,2017-12-21T05:00:00.000Z,15,Major Arterial,Other,Yes,Yes,Yes,Yes, ,Yes, , 
--79.215762,43.760802000000005,Scarborough,2017, ,2017-07-22T04:00:00.000Z,23,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.322238,43.775355,Scarborough,2017,Passenger Van,2017-11-24T05:00:00.000Z,11,Major Arterial,Dry, , , ,Yes, ,Yes, ,Yes
--79.34798,43.755549,North York,2017, ,2017-10-04T04:00:00.000Z,23,Major Arterial,Dry, ,Yes, ,Yes, ,Yes, , 
--79.397403,43.651315999999994,Toronto and East York,2017, ,2017-04-14T04:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, , , , 
--79.286601,43.751868,Scarborough,2017, ,2017-12-01T05:00:00.000Z,23,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.40326999999999,43.707171,North York,2017, ,2017-11-28T05:00:00.000Z,12,Collector,Dry, , ,Yes,Yes, ,Yes, , 
--79.194843,43.803004,Scarborough,2017,"Automobile, Station Wagon",2017-08-10T04:00:00.000Z,18,Major Arterial,Dry, , , , , ,Yes, , 
--79.312076,43.748763000000004,Scarborough,2017,"Automobile, Station Wagon",2017-08-24T04:00:00.000Z,23,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.30125699999999,43.763490999999995,Scarborough,2017, ,2017-09-27T04:00:00.000Z,21,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.447238,43.734515,North York,2017,Motorcycle,2017-05-08T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.44137099999999,43.635432,Toronto and East York,2017,Bicycle,2017-05-24T04:00:00.000Z,18,Expressway,Dry, , , , ,Yes, , , 
--79.260387,43.715674,Scarborough,2016, ,2016-06-17T04:00:00.000Z,3,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.246181,43.820227,Scarborough,2016, ,2016-03-31T04:00:00.000Z,21,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.29066800000001,43.81116,Scarborough,2016, ,2016-12-13T05:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.4099,43.788653000000004,North York,2016,"Automobile, Station Wagon",2016-04-09T04:00:00.000Z,21,Minor Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.435222,43.633078000000005,Toronto and East York,2016,"Automobile, Station Wagon",2016-10-31T04:00:00.000Z,2,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.19795500000001,43.84878,Scarborough,2016,"Automobile, Station Wagon",2016-08-14T04:00:00.000Z,2,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.377147,43.711028000000006,North York,2016, ,2016-01-15T05:00:00.000Z,14,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.33229399999999,43.738375,North York,2016,"Automobile, Station Wagon",2016-05-31T04:00:00.000Z,14,Expressway,Dry, , , , , ,Yes, ,Yes
--79.54156,43.593039000000005,Etobicoke York,2016,"Automobile, Station Wagon",2016-01-08T05:00:00.000Z,5,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.267925,43.732192,Scarborough,2016, ,2016-06-06T04:00:00.000Z,14,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.48286800000001,43.688357,Etobicoke York,2016,"Automobile, Station Wagon",2016-01-06T05:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes, , 
--79.37324100000001,43.65372,Toronto and East York,2016, ,2016-03-04T05:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.392284,43.640692,Toronto and East York,2016, ,2016-06-14T04:00:00.000Z,14,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.513202,43.739379,North York,2016, ,2016-04-10T04:00:00.000Z,3,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.511264,43.731806,North York,2016,Motorcycle,2016-05-17T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.513202,43.739379,North York,2016, ,2016-04-10T04:00:00.000Z,3,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.364993,43.656932,Toronto and East York,2016, ,2016-07-28T04:00:00.000Z,14,Minor Arterial,Dry, , , ,Yes, , , ,Yes
--79.409488,43.656096000000005,Toronto and East York,2016, ,2016-11-02T04:00:00.000Z,19,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.513202,43.739379,North York,2016, ,2016-04-10T04:00:00.000Z,3,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.4864,43.653998,Toronto and East York,2016, ,2016-04-23T04:00:00.000Z,3,Major Arterial,Other, , ,Yes, , ,Yes, , 
--79.222949,43.742284999999995,Scarborough,2016, ,2016-04-25T04:00:00.000Z,21,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.50360400000001,43.760237,Etobicoke York,2016, ,2016-02-13T05:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.438091,43.640776,Toronto East York,2016, ,2016-02-18T05:00:00.000Z,22,Local,Dry, , , ,Yes, , , , 
--79.34917800000001,43.641405999999996,Toronto and East York,2016,"Automobile, Station Wagon",2016-10-27T04:00:00.000Z,15,Collector,Wet, , ,Yes, , ,Yes, , 
--79.377452,43.642066,Toronto and East York,2016,Motorcycle,2016-09-01T04:00:00.000Z,22,Major Arterial,Dry, , , , , ,Yes,Yes, 
--79.600063,43.727339,Etobicoke York,2016,"Automobile, Station Wagon",2016-05-24T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes, , ,Yes, ,Yes
--79.517581,43.661376000000004,Etobicoke York,2016,Motorcycle,2016-07-22T04:00:00.000Z,19,Minor Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.247493,43.755103000000005,Scarborough,2016, ,2016-06-15T04:00:00.000Z,0,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.521175,43.599963,Etobicoke York,2016,"Automobile, Station Wagon",2016-02-01T05:00:00.000Z,10,Collector,Dry, , ,Yes, , ,Yes, , 
--79.255756,43.783583,Scarborough,2016,Motorcycle,2016-07-06T04:00:00.000Z,18,Expressway,Dry, , ,Yes, , ,Yes,Yes, 
--79.341022,43.756446000000004,North York,2016, ,2016-10-11T04:00:00.000Z,11,Collector,Dry, , , ,Yes, ,Yes, , 
--79.507747,43.648158,Etobicoke York,2016, ,2016-11-06T04:00:00.000Z,11,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.493961,43.760321000000005,Etobicoke York,2016, ,2016-01-31T05:00:00.000Z,2,Local,Wet, ,Yes, , , ,Yes, , 
--79.564426,43.618773,Etobicoke York,2016,"Automobile, Station Wagon",2016-05-28T04:00:00.000Z,18,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.42094,43.708262,North York,2016,"Automobile, Station Wagon",2016-04-08T04:00:00.000Z,9,Local,Dry, , ,Yes, , ,Yes, , 
--79.352275,43.793151,North York,2016, ,2016-03-29T04:00:00.000Z,9,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.36342900000001,43.645872999999995,Toronto and East York,2016, ,2016-07-02T04:00:00.000Z,18,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.422359,43.778242999999996,North York,2016, ,2016-08-05T04:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.304355,43.77949,Scarborough,2016, ,2016-11-14T05:00:00.000Z,8,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.419765,43.734460999999996,North York,2016, ,2016-05-01T04:00:00.000Z,20,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.207637,43.747851000000004,Scarborough,2016, ,2016-07-29T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.611308,43.720599,Etobicoke York,2016,Motorcycle,2016-08-05T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , , ,Yes,Yes
--79.367008,43.651472999999996,Toronto and East York,2016, ,2016-03-23T04:00:00.000Z,20,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.482974,43.754729,North York,2016, ,2016-09-16T04:00:00.000Z,12,Local,Dry, , ,Yes,Yes, ,Yes, , 
--79.437427,43.664706,Toronto and East York,2016, ,2016-01-30T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.57332199999999,43.764662,Etobicoke York,2016,Motorcycle,2016-03-09T05:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , , ,Yes, 
--79.373676,43.657778,Toronto and East York,2016, ,2016-11-24T05:00:00.000Z,20,Local,Wet, , , ,Yes, ,Yes, , 
--79.42372399999999,43.671199,Toronto and East York,2016,Bicycle,2016-07-05T04:00:00.000Z,12,Major Arterial,Dry, , , , ,Yes, , , 
--79.437747,43.752669,North York,2016, ,2016-12-06T05:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.450549,43.691016,Toronto and East York,2016, ,2016-06-22T04:00:00.000Z,6,Local,Dry, , , ,Yes, ,Yes, , 
--79.297221,43.693529999999996,Toronto and East York,2016, ,2016-02-18T05:00:00.000Z,13,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.315753,43.796763,Scarborough,2016, ,2016-08-30T04:00:00.000Z,6,Major Arterial,Dry, , , , , ,Yes, , 
--79.280681,43.764497999999996,Scarborough,2016, ,2016-01-03T05:00:00.000Z,19,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.372058,43.712084000000004,North York,2016, ,2016-10-20T04:00:00.000Z,19,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.427036,43.700666999999996,Toronto and East York,2016, ,2016-09-30T04:00:00.000Z,19,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.320316,43.775892999999996,Scarborough,2016, ,2016-01-17T05:00:00.000Z,19,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.260188,43.734049,Scarborough,2016, ,2016-10-02T04:00:00.000Z,19,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.315616,43.696753,Toronto and East York,2016, ,2016-12-01T05:00:00.000Z,13,Collector,Dry, , ,Yes,Yes, ,Yes, , 
--79.54007299999999,43.636099,Etobicoke York,2016, ,2016-01-28T05:00:00.000Z,9,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.352275,43.793151,North York,2016, ,2016-08-19T04:00:00.000Z,9,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.25435999999999,43.735331,Scarborough,2016, ,2016-10-02T04:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.56525699999999,43.737165999999995,Etobicoke York,2016, ,2016-07-05T04:00:00.000Z,11,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.479152,43.669959000000006,Etobicoke York,2016,"Automobile, Station Wagon",2016-09-29T04:00:00.000Z,10,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.297504,43.725642,Scarborough,2016,"Automobile, Station Wagon",2016-10-30T04:00:00.000Z,2,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.38240400000001,43.680724,Toronto and East York,2016, ,2016-09-05T04:00:00.000Z,2,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.51075300000001,43.602278000000005,Etobicoke York,2016,"Automobile, Station Wagon",2016-07-12T04:00:00.000Z,17,Collector,Dry, , , , , ,Yes, , 
--79.574641,43.728128999999996,Etobicoke York,2016, ,2016-07-04T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.324161,43.777732,Scarborough,2016, ,2016-04-22T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.467433,43.688113,Etobicoke York,2016,"Automobile, Station Wagon",2016-05-30T04:00:00.000Z,17,Local,Dry, , , , , ,Yes, , 
--79.254108,43.750491,Scarborough,2016, ,2016-11-10T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.430972,43.674712,Toronto and East York,2016, ,2016-10-12T04:00:00.000Z,11,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.258098,43.734519,Scarborough,2016, ,2016-10-12T04:00:00.000Z,11,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.370654,43.671935,Toronto and East York,2016, ,2016-11-28T05:00:00.000Z,21,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.288913,43.672746999999994,Toronto and East York,2016, ,2016-05-03T04:00:00.000Z,9,Local,Dry, , , ,Yes, ,Yes, , 
--79.427661,43.681227,Toronto and East York,2016, ,2016-09-21T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.354724,43.792651,North York,2016, ,2016-03-14T04:00:00.000Z,9,Major Arterial,Wet,Yes, ,Yes, , ,Yes, , 
--79.413997,43.789603,North York,2016, ,2016-02-10T05:00:00.000Z,9,Local,Wet, , ,Yes,Yes, ,Yes, , 
--79.336467,43.816844,Scarborough,2016,"Automobile, Station Wagon",2016-01-14T05:00:00.000Z,11,Major Arterial,Wet, , ,Yes, , ,Yes, ,Yes
--79.55945899999999,43.69047,Etobicoke York,2015,"Automobile, Station Wagon",2015-05-27T04:00:00.000Z,21,Local,Dry, , , , , ,Yes, , 
--79.430408,43.660933,Toronto and East York,2015, ,2015-05-31T04:00:00.000Z,21,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.24306800000001,43.81296,Scarborough,2015, ,2015-03-04T05:00:00.000Z,16,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.570071,43.760417,Etobicoke York,2015, ,2015-03-04T05:00:00.000Z,19,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.171031,43.808852,Scarborough,2015, ,2015-08-09T04:00:00.000Z,21,Collector,Dry, , , ,Yes, ,Yes, , 
--79.271098,43.767913,Scarborough,2015, ,2015-09-20T04:00:00.000Z,20,Major Arterial,Dry, , , , , ,Yes, , 
--79.503825,43.702868,Etobicoke York,2015, ,2015-11-11T05:00:00.000Z,20,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.541393,43.685214,Etobicoke York,2015, ,2015-10-10T04:00:00.000Z,19,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.44664300000001,43.686811999999996,Toronto and East York,2015, ,2015-06-26T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.4192,43.794638,North York,2015, ,2015-03-19T04:00:00.000Z,16,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.428859,43.681033,Toronto and East York,2015, ,2015-03-20T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.448695,43.76113,North York,2015, ,2015-09-05T04:00:00.000Z,16,Local,Dry, , , , , ,Yes, , 
--79.257442,43.720403999999995,Scarborough,2015, ,2015-02-05T05:00:00.000Z,17,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.302638,43.724711,Scarborough,2015, ,2015-03-27T04:00:00.000Z,20,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.431415,43.726615,North York,2015, ,2015-11-30T05:00:00.000Z,17,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.352763,43.665820000000004,Toronto and East York,2015, ,2015-04-04T04:00:00.000Z,20,Minor Arterial,Wet, , , ,Yes, , , , 
--79.365749,43.655328999999995,Toronto and East York,2015, ,2015-09-22T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.499889,43.722663,North York,2015,"Automobile, Station Wagon",2015-04-13T04:00:00.000Z,17,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.500606,43.621562,Etobicoke York,2015, ,2015-02-13T05:00:00.000Z,15,Minor Arterial,Other, , , , , , , , 
--79.22742,43.729457000000004,Scarborough,2015,"Automobile, Station Wagon",2015-12-03T05:00:00.000Z,20,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.47280400000001,43.684897,Etobicoke York,2015, ,2015-10-23T04:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.39442,43.725703,North York,2015, ,2015-07-14T04:00:00.000Z,21,Local,Other, , ,Yes,Yes, ,Yes, , 
--79.592754,43.711352000000005,Etobicoke York,2015,Bicycle,2015-11-03T05:00:00.000Z,17,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.219142,43.743716,Scarborough,2015, ,2015-11-18T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.471462,43.72959,North York,2015, ,2015-09-30T04:00:00.000Z,23,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.454883,43.74869,North York,2015, ,2015-03-28T04:00:00.000Z,12,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.41212,43.637427,Toronto and East York,2015,Motorcycle,2015-04-01T04:00:00.000Z,23,Expressway,Dry, , ,Yes, , , ,Yes, 
--79.56166400000001,43.645896,Etobicoke York,2015,"Automobile, Station Wagon",2015-09-26T04:00:00.000Z,0,Expressway,Dry,Yes,Yes,Yes, , ,Yes, , 
--79.396594,43.674712,Toronto and East York,2015,Bicycle,2015-06-13T04:00:00.000Z,23,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.42554799999999,43.700984000000005,Toronto and East York,2015, ,2015-11-27T05:00:00.000Z,5,Major Arterial,Dry,Yes, ,Yes,Yes, , , ,Yes
--79.328265,43.682341,Toronto and East York,2015, ,2015-12-30T05:00:00.000Z,23,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.481792,43.623171,Etobicoke York,2015, ,2015-09-03T04:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.479564,43.715346000000004,Etobicoke York,2015,"Automobile, Station Wagon",2015-08-04T04:00:00.000Z,11,Major Arterial,Dry, , , , , ,Yes, ,Yes
--79.410945,43.704074,Toronto and East York,2015, ,2015-11-26T05:00:00.000Z,9,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.43634300000001,43.651801,Toronto and East York,2015, ,2015-01-25T05:00:00.000Z,7,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.301936,43.812129,Scarborough,2015, ,2015-02-16T05:00:00.000Z,6,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.352985,43.669097,Toronto and East York,2015,"Automobile, Station Wagon",2015-01-11T05:00:00.000Z,3,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.540759,43.650695,Etobicoke York,2015, ,2015-10-03T04:00:00.000Z,3,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.245418,43.755538,Scarborough,2015, ,2015-06-02T04:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.340846,43.727645,North York,2015, ,2015-05-22T04:00:00.000Z,8,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.457828,43.655169,Toronto and East York,2015, ,2015-05-16T04:00:00.000Z,3,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.382312,43.679423,Toronto and East York,2015,Bicycle,2015-05-19T04:00:00.000Z,8,Collector,Dry, , , , ,Yes,Yes, , 
--79.424945,43.699484999999996,Toronto and East York,2015,"Automobile, Station Wagon",2015-11-14T05:00:00.000Z,8,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.38129,43.732985,North York,2015,"Automobile, Station Wagon",2015-08-16T04:00:00.000Z,12,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.332736,43.689231,Toronto and East York,2015, ,2015-03-10T04:00:00.000Z,6,Minor Arterial,Wet, , , ,Yes, ,Yes, , 
--79.528835,43.626292,Etobicoke York,2015,Motorcycle,2015-07-06T04:00:00.000Z,0,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.435138,43.633349,Toronto and East York,2015,Motorcycle,2015-09-06T04:00:00.000Z,10,Expressway,Dry, , , , , , ,Yes, 
--79.507922,43.759271999999996,Etobicoke York,2015,Bicycle,2015-06-11T04:00:00.000Z,0,Major Arterial,Dry, ,Yes,Yes, ,Yes,Yes, , 
--79.24737900000001,43.735163,Scarborough,2015, ,2015-05-13T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.370799,43.657740000000004,Toronto and East York,2015, ,2015-02-18T05:00:00.000Z,1,Minor Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.263774,43.801421000000005,Scarborough,2015, ,2015-11-24T05:00:00.000Z,6,Major Arterial,Wet,Yes, ,Yes,Yes, ,Yes, , 
--79.15599399999999,43.792666,Scarborough,2015,Motorcycle,2015-07-26T04:00:00.000Z,13,Minor Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.36584,43.671626,Toronto and East York,2015,Motorcycle,2015-05-07T04:00:00.000Z,1,Minor Arterial,Dry, , ,Yes, , , ,Yes, 
--79.343501,43.692526,Toronto and East York,2015, ,2015-03-20T04:00:00.000Z,0,Local,Dry, , , ,Yes, ,Yes, , 
--79.429813,43.719248,North York,2015, ,2015-12-02T05:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.326206,43.664164,Toronto and East York,2015,Motorcycle,2015-09-18T04:00:00.000Z,6,Minor Arterial,Dry, , , , , , ,Yes, 
--79.29131600000001,43.765433,Scarborough,2015, ,2015-01-28T05:00:00.000Z,6,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.235263,43.757712,Scarborough,2015, ,2015-08-16T04:00:00.000Z,0,Major Arterial,Dry,Yes,Yes,Yes, , ,Yes, , 
--79.50344399999999,43.701564000000005,Etobicoke York,2015, ,2015-12-15T05:00:00.000Z,11,Major Arterial,Dry, , , , , ,Yes, , 
--79.20087,43.805159,Scarborough,2015,"Automobile, Station Wagon",2015-10-06T04:00:00.000Z,6,Major Arterial,Dry, , , , , ,Yes, , 
--79.34238,43.664443,Toronto and East York,2015, ,2015-04-20T04:00:00.000Z,14,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.45302099999999,43.790801,North York,2015, ,2015-08-24T04:00:00.000Z,13,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.412891,43.769263,North York,2015, ,2015-06-11T04:00:00.000Z,13,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.45055699999999,43.639189,Toronto and East York,2015, ,2015-09-24T04:00:00.000Z,6,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.50246700000001,43.622645,Etobicoke York,2015,"Automobile, Station Wagon",2015-06-13T04:00:00.000Z,3,Expressway,Wet, , ,Yes, , ,Yes, , 
--79.39986,43.652541,Toronto and East York,2014, ,2014-04-23T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.272052,43.742171,Scarborough,2014,"Automobile, Station Wagon",2014-12-07T05:00:00.000Z,9,Major Arterial,Dry, , , , , ,Yes, , 
--79.436572,43.637053,Toronto and East York,2014, ,2014-10-09T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.409702,43.781046999999994,North York,2014,"Automobile, Station Wagon",2014-07-28T04:00:00.000Z,12,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.217136,43.779742,Scarborough,2014,"Automobile, Station Wagon",2014-11-24T05:00:00.000Z,18,Major Arterial,Dry,Yes,Yes,Yes, , ,Yes, , 
--79.22759599999999,43.816252,Scarborough,2014, ,2014-12-19T05:00:00.000Z,17,Minor Arterial,Dry, , ,Yes,Yes, , , , 
--79.31548599999999,43.777014,Scarborough,2014, ,2014-12-28T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.36225400000001,43.656085,Toronto and East York,2014, ,2014-08-18T04:00:00.000Z,1,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.21767,43.798106,Scarborough,2014,Bicycle,2014-08-01T04:00:00.000Z,17,Major Arterial,Dry, , ,Yes, ,Yes,Yes, , 
--79.44666600000001,43.788577000000004,North York,2014, ,2014-12-18T05:00:00.000Z,8,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.331226,43.775088000000004,North York,2014,Passenger Van,2014-01-26T05:00:00.000Z,13,Major Arterial,Loose Snow, , , , , ,Yes, , 
--79.574641,43.728128999999996,Etobicoke York,2014, ,2014-11-09T05:00:00.000Z,5,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.51343100000001,43.758047999999995,Etobicoke York,2014, ,2014-11-21T05:00:00.000Z,6,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.58712299999999,43.699228999999995,Etobicoke York,2014,"Automobile, Station Wagon",2014-05-21T04:00:00.000Z,6,Major Arterial,Dry, , , , , ,Yes, , 
--79.396793,43.687525,Toronto and East York,2014, ,2014-09-18T04:00:00.000Z,20,Major Arterial,Dry, , , ,Yes, , , , 
--79.379863,43.655387,Toronto and East York,2014, ,2014-09-10T04:00:00.000Z,6,Laneway,Dry, , , ,Yes, , , ,Yes
--79.303104,43.725833,Scarborough,2014, ,2014-10-16T04:00:00.000Z,19,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.337749,43.77582,North York,2014, ,2014-12-12T05:00:00.000Z,13,Expressway,Wet,Yes, ,Yes, , ,Yes, , 
--79.452602,43.656863,Toronto and East York,2014, ,2014-07-10T04:00:00.000Z,19,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.258769,43.736033,Scarborough,2014, ,2014-11-06T05:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.357845,43.675115999999996,Toronto and East York,2014,Motorcycle,2014-06-16T04:00:00.000Z,8,Minor Arterial,Wet, , , , , , ,Yes, 
--79.397456,43.763236,North York,2014, ,2014-06-03T04:00:00.000Z,12,Local,Dry, , , ,Yes, ,Yes, , 
--79.328006,43.694125,Scarborough,2014, ,2014-12-12T05:00:00.000Z,18,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.509113,43.65729,Etobicoke York,2014,"Automobile, Station Wagon",2014-03-06T05:00:00.000Z,7,Collector,Slush, , , , , ,Yes, , 
--79.35948499999999,43.809378,North York,2014, ,2014-11-07T05:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.45298299999999,43.658259,Scarborough,2014, ,2014-11-20T05:00:00.000Z,12,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.434711,43.63745,Toronto and East York,2014, ,2014-09-22T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.211902,43.777968,Scarborough,2014,"Automobile, Station Wagon",2014-11-04T05:00:00.000Z,8,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.285129,43.711141999999995,Scarborough,2014, ,2014-02-12T05:00:00.000Z,20,Major Arterial,Ice, , ,Yes,Yes, ,Yes, , 
--79.267062,43.708708,Scarborough,2014, ,2014-02-12T05:00:00.000Z,1,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.296924,43.702246,North York,2014, ,2014-08-17T04:00:00.000Z,23,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.443202,43.716307,North York,2014, ,2014-10-11T04:00:00.000Z,10,Expressway,Dry, , , ,Yes, , , , 
--79.368121,43.704775,North York,2014, ,2014-07-16T04:00:00.000Z,16,Collector,Dry, , ,Yes,Yes, ,Yes, , 
--79.58357600000001,43.660464000000005,Etobicoke York,2014,Motorcycle,2014-05-08T04:00:00.000Z,21,Minor Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.617862,43.73503,Etobicoke York,2014, ,2014-07-28T04:00:00.000Z,5,Major Arterial,Wet, , , ,Yes, , , , 
--79.302089,43.723372,Scarborough,2014, ,2014-08-20T04:00:00.000Z,16,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.349437,43.697508,Toronto and East York,2014,"Automobile, Station Wagon",2014-11-24T05:00:00.000Z,3,Major Arterial,Wet, ,Yes,Yes, , ,Yes, , 
--79.468509,43.672331,Etobicoke York,2014, ,2014-09-30T04:00:00.000Z,16,Major Arterial,Dry, , , ,Yes, , , , 
--79.330722,43.804114,Scarborough,2014, ,2014-07-08T04:00:00.000Z,10,Minor Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.350871,43.75495,North York,2014,"Automobile, Station Wagon",2014-02-26T05:00:00.000Z,16,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.302089,43.723372,Scarborough,2014,Bicycle,2014-10-28T04:00:00.000Z,15,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.447673,43.69625, ,2014, ,2014-01-19T05:00:00.000Z,21,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.290637,43.735335,Scarborough,2014,Bicycle,2014-10-09T04:00:00.000Z,14,Major Arterial,Dry,Yes, ,Yes, ,Yes,Yes, , 
--79.219852,43.742971999999995,Scarborough,2014, ,2014-09-01T04:00:00.000Z,1,Major Arterial,Dry, , , , , , , , 
--79.289455,43.78575,Scarborough,2014, ,2014-08-16T04:00:00.000Z,5,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.476505,43.670558,Etobicoke York,2014, ,2014-08-30T04:00:00.000Z,4,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.41668299999999,43.784380999999996,North York,2014, ,2014-08-07T04:00:00.000Z,16,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.412013,43.655574,Toronto and East York,2014, ,2014-11-27T05:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes, , 
--79.45193,43.675994,Toronto and East York,2014, ,2014-08-07T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, , , , 
--79.55511,43.725997,Etobicoke York,2014,Motorcycle,2014-10-01T04:00:00.000Z,16,Local,Wet, , ,Yes, , , ,Yes, 
--79.401134,43.652262,Toronto and East York,2014, ,2014-05-10T04:00:00.000Z,2,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.283893,43.773146000000004,Scarborough,2013,Bicycle,2013-04-13T04:00:00.000Z,18,Expressway,Dry,Yes,Yes,Yes, ,Yes,Yes, , 
--79.415706,43.795355,North York,2013, ,2013-12-04T05:00:00.000Z,18,Local,Dry, , , ,Yes, ,Yes, , 
--79.56721800000001,43.634440000000005,Etobicoke York,2013,"Automobile, Station Wagon",2013-11-30T05:00:00.000Z,15,Major Arterial,Other, , , , , ,Yes, , 
--79.397853,43.652507,Toronto and East York,2013,Bicycle,2013-10-16T04:00:00.000Z,7,Major Arterial,Wet, , , , ,Yes, , ,Yes
--79.166332,43.772868,Scarborough,2013, ,2013-11-08T05:00:00.000Z,7,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.44248499999999,43.639426,Toronto and East York,2013, ,2013-08-23T04:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.606792,43.730746,Etobicoke York,2013, ,2013-08-27T04:00:00.000Z,15,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.25159000000001,43.703646,Scarborough,2013, ,2013-03-07T05:00:00.000Z,15,Collector,Wet, , ,Yes,Yes, , , ,Yes
--79.244487,43.748545,Scarborough,2013,Motorcycle,2013-08-30T04:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes,Yes,Yes
--79.532726,43.696154,Etobicoke York,2013,"Automobile, Station Wagon",2013-08-19T04:00:00.000Z,7,Minor Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.301288,43.721343,Scarborough,2013, ,2013-03-05T05:00:00.000Z,21,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.397586,43.651843,Toronto and East York,2013, ,2013-06-06T04:00:00.000Z,23,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.280292,43.684645,Scarborough,2013, ,2013-07-18T04:00:00.000Z,18,Collector,Dry, , , ,Yes, ,Yes, , 
--79.30168499999999,43.722369,Scarborough,2013, ,2013-12-24T05:00:00.000Z,15,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.455066,43.771440999999996,North York,2013, ,2013-10-05T04:00:00.000Z,19,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.396922,43.687509999999996,Toronto and East York,2013, ,2013-11-15T05:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.172488,43.782145,Scarborough,2013, ,2013-07-11T04:00:00.000Z,22,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.423999,43.640547,Toronto and East York,2013,"Automobile, Station Wagon",2013-06-16T04:00:00.000Z,6,Local,Wet, , , , , ,Yes, , 
--79.417888,43.727843,North York,2013, ,2013-04-16T04:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.382388,43.659644,Toronto and East York,2013,Motorcycle,2013-05-04T04:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, , ,Yes, 
--79.245387,43.755545,Scarborough,2013, ,2013-07-05T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.424747,43.796965,North York,2013, ,2013-11-24T05:00:00.000Z,15,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.60306899999999,43.734159999999996,Etobicoke York,2013,Other,2013-07-25T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.342792,43.667643,Toronto and East York,2013, ,2013-10-01T04:00:00.000Z,10,Minor Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.377811,43.642996000000004,Toronto and East York,2013, ,2013-07-03T04:00:00.000Z,13,Expressway,Dry, , ,Yes,Yes, ,Yes, , 
--79.619815,43.754172,Etobicoke York,2013,Motorcycle,2013-09-25T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.52879,43.626245000000004,Etobicoke York,2013,Motorcycle,2013-07-22T04:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.215091,43.818743,Scarborough,2013,"Automobile, Station Wagon",2013-01-10T05:00:00.000Z,18,Minor Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.49959100000001,43.753844,Etobicoke York,2013, ,2013-09-03T04:00:00.000Z,8,Collector,Dry, , ,Yes,Yes, , , ,Yes
--79.40669,43.780545000000004,North York,2013,Motorcycle,2013-08-15T04:00:00.000Z,22,Minor Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.280689,43.729346,Scarborough,2013, ,2013-01-23T05:00:00.000Z,15,Major Arterial,Dry,Yes, ,Yes,Yes, , , , 
--79.267993,43.832644,Scarborough,2013, ,2013-08-13T04:00:00.000Z,11,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.467212,43.751868,North York,2013,Bicycle,2013-11-20T05:00:00.000Z,9,Major Arterial,Dry,Yes, ,Yes, ,Yes,Yes, , 
--79.325069,43.705802,Toronto and East York,2013,Other,2013-11-03T04:00:00.000Z,16,Collector,Dry, , , ,Yes, ,Yes, , 
--79.263789,43.801444000000004,Scarborough,2013, ,2013-07-08T04:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, , , , 
--79.347888,43.774943,North York,2013, ,2013-07-28T04:00:00.000Z,0,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.411594,43.651168,Toronto and East York,2013, ,2013-12-05T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.497989,43.602343,Etobicoke York,2013,Bicycle,2013-09-18T04:00:00.000Z,16,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.34849100000001,43.650244,Toronto and East York,2013, ,2013-03-29T04:00:00.000Z,17,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.351352,43.662455,Toronto and East York,2013, ,2013-09-26T04:00:00.000Z,10,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.270191,43.711943,Scarborough,2013, ,2013-02-02T05:00:00.000Z,10,Minor Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.360187,43.670146,Toronto and East York,2013,Motorcycle,2013-09-07T04:00:00.000Z,2,Major Arterial,Dry, , ,Yes, , , ,Yes, 
--79.267787,43.731745000000004,Scarborough,2013, ,2013-10-20T04:00:00.000Z,0,Major Arterial,Dry, ,Yes, ,Yes, ,Yes, , 
--79.390689,43.679843,Toronto and East York,2013, ,2013-01-15T05:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.284488,43.792746,Scarborough,2013,Motorcycle,2013-07-03T04:00:00.000Z,21,Collector,Dry, , ,Yes, , ,Yes,Yes, 
--79.570766,43.633544,Etobicoke York,2013, ,2013-12-03T05:00:00.000Z,21,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.40209499999999,43.663043,Toronto and East York,2013, ,2013-11-07T05:00:00.000Z,11,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.518886,43.762446000000004,Etobicoke York,2013, ,2013-04-12T04:00:00.000Z,20,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.43909000000001,43.634444,Toronto and East York,2013, ,2013-08-03T04:00:00.000Z,20,Expressway,Dry, , , , , , , ,Yes
--79.48479,43.680644,Etobicoke York,2013, ,2013-07-29T04:00:00.000Z,16,Local,Dry, , , ,Yes, ,Yes, , 
--79.445163,43.792533,North York,2013, ,2013-09-16T04:00:00.000Z,1,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.40588699999999,43.740344,North York,2013, ,2013-05-16T04:00:00.000Z,12,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.447742,43.637614,Toronto and East York,2013,"Automobile, Station Wagon",2013-11-29T05:00:00.000Z,5,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.312587,43.667243,Toronto and East York,2013, ,2013-05-12T04:00:00.000Z,1,Major Arterial,Wet, , , ,Yes, , , , 
--79.244701,43.737418,Scarborough,2013, ,2013-11-24T05:00:00.000Z,10,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.42775300000001,43.700518,Toronto and East York,2013, ,2013-10-30T04:00:00.000Z,10,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.433688,43.649745,Toronto and East York,2013, ,2013-02-06T05:00:00.000Z,10,Minor Arterial,Dry, , , ,Yes, , , ,Yes
--79.303623,43.824481,Scarborough,2013, ,2013-10-08T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.57728900000001,43.763743,Etobicoke York,2013,"Automobile, Station Wagon",2013-08-03T04:00:00.000Z,3,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.43804499999999,43.634032,Toronto and East York,2013, ,2013-09-30T04:00:00.000Z,8,Expressway,Dry, , , , , ,Yes, , 
--79.411693,43.712046,North York,2013,"Automobile, Station Wagon",2013-04-16T04:00:00.000Z,9,Major Arterial,Dry, , , , , ,Yes, , 
--79.240093,43.788844,Scarborough,2013, ,2013-09-05T04:00:00.000Z,18,Minor Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.25768599999999,43.809844,Scarborough,2013, ,2013-08-18T04:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.50099,43.691545,Etobicoke York,2012,Other,2012-03-21T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.35519000000001,43.790045,North York,2012,"Automobile, Station Wagon",2012-01-20T05:00:00.000Z,22,Collector,Packed Snow, , , , , ,Yes, , 
--79.24899,43.736445,Scarborough,2012,Other,2012-07-13T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.37889,43.779645,North York,2012,Other,2012-01-12T05:00:00.000Z,21,Local,Wet, , , ,Yes, ,Yes, , 
--79.40049,43.704245,Toronto and East York,2012,Other,2012-05-11T04:00:00.000Z,12,Collector,Dry, , , ,Yes, ,Yes, , 
--79.189586,43.767646,Scarborough,2012,Bicycle,2012-07-27T04:00:00.000Z,21,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.19909,43.800245000000004,Scarborough,2012,Other,2012-04-21T04:00:00.000Z,20,Expressway,Dry, , , ,Yes, ,Yes, , 
--79.19929,43.800745,Scarborough,2012,"Automobile, Station Wagon",2012-04-19T04:00:00.000Z,12,Major Arterial,Dry, , , , , ,Yes, , 
--79.26859,43.733845,Scarborough,2012,Other,2012-12-20T05:00:00.000Z,20,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.27089000000001,43.780945,Scarborough,2012,"Automobile, Station Wagon",2012-08-25T04:00:00.000Z,23,Local,Dry, , ,Yes, , ,Yes, , 
--79.41829200000001,43.742343,North York,2012,Other,2012-05-27T04:00:00.000Z,12,Local,Dry, , , ,Yes, ,Yes, , 
--79.59679,43.720045,Etobicoke York,2012,Other,2012-07-28T04:00:00.000Z,12,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.17369000000001,43.776445,Scarborough,2012,Other,2012-12-18T05:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.22759,43.816245,Scarborough,2012,Other,2012-01-12T05:00:00.000Z,5,Minor Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.41439,43.728645,North York,2012,Other,2012-12-03T05:00:00.000Z,15,Collector,Dry, , ,Yes,Yes, ,Yes, , 
--79.39359,43.716945,North York,2012,Other,2012-04-03T04:00:00.000Z,2,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.28999,43.809645,Scarborough,2012,Other,2012-11-27T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.39819,43.646245,Toronto and East York,2012,Other,2012-06-14T04:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.489391,43.676943,Etobicoke York,2012,Motorcycle,2012-08-23T04:00:00.000Z,16,Collector,Dry,Yes, ,Yes, , ,Yes,Yes, 
--79.21259,43.790545,Scarborough,2012,"Automobile, Station Wagon",2012-07-30T04:00:00.000Z,16,Minor Arterial,Dry, , , , , ,Yes, , 
--79.29219,43.782345,Scarborough,2012,Other,2012-12-20T05:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.31689,43.821345,Scarborough,2012,Other,2012-05-07T04:00:00.000Z,8,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.37259,43.663245,Toronto and East York,2012,Other,2012-08-25T04:00:00.000Z,8,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.34499,43.736845,North York,2012,Motorcycle,2012-06-08T04:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.49319,43.670245,Etobicoke York,2012,Motorcycle,2012-10-05T04:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes,Yes, 
--79.44449,43.710745,North York,2012,Motorcycle,2012-09-11T04:00:00.000Z,8,Minor Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.35589,43.665145,Toronto and East York,2012,Motorcycle,2012-04-20T04:00:00.000Z,14,Expressway,Dry, , ,Yes, , , ,Yes, 
--79.38629,43.650045,Toronto and East York,2012,Bicycle,2012-11-07T05:00:00.000Z,14,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.54669,43.697045,Etobicoke York,2012,Other,2012-01-26T05:00:00.000Z,9,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.574893,43.764346,Etobicoke York,2012,"Automobile, Station Wagon",2012-01-30T05:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes, , 
--79.54649,43.770245,Etobicoke York,2012,Other,2012-05-15T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.40369,43.647745,Toronto and East York,2012,Other,2012-07-09T04:00:00.000Z,9,Local,Dry, , , , , ,Yes, , 
--79.51239,43.758245,Etobicoke York,2012,Other,2012-04-02T04:00:00.000Z,5,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.41639,43.779545,North York,2012,Other,2012-08-21T04:00:00.000Z,9,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.314189,43.807944,Scarborough,2012,Other,2012-10-21T04:00:00.000Z,3,Minor Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.39149,43.782045000000004,North York,2012,Other,2012-09-10T04:00:00.000Z,9,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.325488,43.714343,North York,2012,"Automobile, Station Wagon",2012-10-20T04:00:00.000Z,5,Expressway,Wet, , , , , ,Yes, , 
--79.429286,43.632643,Toronto and East York,2012,Other,2012-02-06T05:00:00.000Z,2,Expressway,Other, , , ,Yes, ,Yes, ,Yes
--79.46769,43.681845,Toronto and East York,2012,"Automobile, Station Wagon",2012-10-14T04:00:00.000Z,4,Minor Arterial,Wet, , ,Yes, , ,Yes, , 
--79.448291,43.671546,Toronto and East York,2012,Bicycle,2012-11-23T05:00:00.000Z,6,Minor Arterial,Dry,Yes, ,Yes, ,Yes,Yes, , 
--79.45669000000001,43.751645,North York,2012,Other,2012-07-08T04:00:00.000Z,18,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.58959,43.695545,Etobicoke York,2012,Other,2012-09-22T04:00:00.000Z,18,Collector,Dry, , , ,Yes, ,Yes, , 
--79.470248,43.634787,Toronto and East York,2012,Motorcycle,2012-09-14T04:00:00.000Z,1,Expressway,Dry, , , , , ,Yes,Yes, 
--79.45329,43.714145,North York,2012,Other,2012-11-01T04:00:00.000Z,6,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.36239,43.682345,Toronto and East York,2011,"Automobile, Station Wagon",2011-11-10T05:00:00.000Z,11,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.57079,43.691545,Etobicoke York,2011,Other,2011-09-23T04:00:00.000Z,19,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.31929000000001,43.741145,North York,2011,"Automobile, Station Wagon",2011-12-23T05:00:00.000Z,5,Major Arterial,Wet, , ,Yes, , ,Yes, , 
--79.44279,43.735545,North York,2011,Other,2011-10-18T04:00:00.000Z,5,Major Arterial,Other, , , ,Yes, ,Yes, , 
--79.52009,43.667145,Etobicoke York,2011,"Automobile, Station Wagon",2011-08-22T04:00:00.000Z,5,Minor Arterial,Dry, , , , , ,Yes, , 
--79.56239000000001,43.627345,Etobicoke York,2011,Other,2011-02-10T05:00:00.000Z,8,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.53269,43.696145,Etobicoke York,2011,Other,2011-07-16T04:00:00.000Z,12,Minor Arterial,Dry, , , , , ,Yes, , 
--79.30729000000001,43.742645,Scarborough,2011,Other,2011-12-02T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.35619,43.649045,Toronto and East York,2011,Motorcycle,2011-04-30T04:00:00.000Z,18,Expressway,Dry, , ,Yes, , ,Yes,Yes, 
--79.33849000000001,43.693845,Toronto and East York,2011,Bicycle,2011-08-05T04:00:00.000Z,9,Collector,Dry, , ,Yes, ,Yes,Yes, , 
--79.50639,43.600445,Etobicoke York,2011,Other,2011-08-02T04:00:00.000Z,12,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.43739000000001,43.652745,Toronto and East York,2011,"Automobile, Station Wagon",2011-08-16T04:00:00.000Z,6,Laneway,Dry, , , , , ,Yes, , 
--79.41779,43.788945,North York,2011,Other,2011-06-17T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.39499,43.645445,Toronto and East York,2011,Other,2011-10-21T04:00:00.000Z,6,Major Arterial,Dry, , , ,Yes, , , ,Yes
--79.21289,43.799145,Scarborough,2011,Other,2011-03-24T04:00:00.000Z,22,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.19949,43.765445,Scarborough,2011,"Automobile, Station Wagon",2011-07-24T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.311565,43.786906,Scarborough,2011,Other,2011-07-01T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.53989,43.698545,Etobicoke York,2011,Motorcycle,2011-08-07T04:00:00.000Z,11,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.40389,43.647245,Toronto and East York,2011,Other,2011-01-11T05:00:00.000Z,10,Major Arterial,Wet, , , ,Yes, , , , 
--79.32799,43.740245,North York,2011,Other,2011-08-30T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes, , ,Yes, ,Yes
--79.54319,43.621845,Etobicoke York,2011,"Automobile, Station Wagon",2011-03-28T04:00:00.000Z,11,Minor Arterial,Dry, , , , , ,Yes, ,Yes
--79.44589,43.785945,North York,2011,Other,2011-06-11T04:00:00.000Z,13,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.42669000000001,43.706645,North York,2011,Other,2011-01-25T05:00:00.000Z,20,Major Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.44589,43.792345000000005,North York,2011,Other,2011-06-29T04:00:00.000Z,11,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.42689,43.661745,Toronto and East York,2011,Other,2011-01-29T05:00:00.000Z,0,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.44299000000001,43.650645000000004,Toronto and East York,2011,Bicycle,2011-11-07T05:00:00.000Z,11,Minor Arterial,Dry, , , , ,Yes, , ,Yes
--79.44329,43.678645,Toronto and East York,2011,Other,2011-01-21T05:00:00.000Z,5,Major Arterial,Slush, , , ,Yes, , , , 
--79.52429000000001,43.621545000000005,Etobicoke York,2011,Other,2011-08-31T04:00:00.000Z,19,Major Arterial,Dry, , , , , , , , 
--79.50359,43.702145,Etobicoke York,2011,Other,2011-12-01T05:00:00.000Z,1,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.519672,43.765898,Etobicoke York,2011,Other,2011-12-21T05:00:00.000Z,7,Major Arterial,Wet, , ,Yes,Yes, , , , 
--79.49739,43.707345000000004,Etobicoke York,2011,"Automobile, Station Wagon",2011-07-08T04:00:00.000Z,4,Major Arterial,Dry, , , , , ,Yes, , 
--79.62099,43.753945,Etobicoke York,2011,"Automobile, Station Wagon",2011-09-12T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.44389,43.789345000000004,North York,2011,Other,2011-08-13T04:00:00.000Z,18,Local,Dry, , , ,Yes, ,Yes, , 
--79.28489,43.800545,Scarborough,2011,"Automobile, Station Wagon",2011-09-01T04:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.29659000000001,43.801245,Scarborough,2011,"Automobile, Station Wagon",2011-10-10T04:00:00.000Z,5,Major Arterial,Dry, , , , , ,Yes, , 
--79.52599000000001,43.703245,Etobicoke York,2010,"Automobile, Station Wagon",2010-09-15T04:00:00.000Z,4,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.40669,43.744145,North York,2010,"Automobile, Station Wagon",2010-07-29T04:00:00.000Z,11,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.59279000000001,43.711345,Etobicoke York,2010,Other,2010-09-26T04:00:00.000Z,22,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.45899,43.637945,Toronto and East York,2010,Bicycle,2010-09-26T04:00:00.000Z,23,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.23759,43.769045,Scarborough,2010,"Automobile, Station Wagon",2010-12-05T05:00:00.000Z,4,Collector,Dry, , , , , ,Yes, , 
--79.54289,43.688645,Etobicoke York,2010,"Automobile, Station Wagon",2010-06-12T04:00:00.000Z,9,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.24839,43.763845,Scarborough,2010,"Automobile, Station Wagon",2010-12-18T05:00:00.000Z,22,Major Arterial,Dry, , , , , ,Yes, , 
--79.25989,43.716845,Scarborough,2010,Other,2010-12-11T05:00:00.000Z,19,Major Arterial,Dry, , , ,Yes, , , , 
--79.36319,43.652745,Toronto and East York,2010,"Automobile, Station Wagon",2010-01-10T05:00:00.000Z,3,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.34989,43.648545,Toronto and East York,2010,"Automobile, Station Wagon",2010-02-28T05:00:00.000Z,23,Local,Dry, , ,Yes, , ,Yes, , 
--79.44189,43.650445,Toronto and East York,2010,Other,2010-05-13T04:00:00.000Z,11,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.35879,43.672745,Toronto and East York,2010,Truck - Open,2010-03-12T05:00:00.000Z,5,Expressway,Dry, , ,Yes, , , , ,Yes
--79.30459,43.743245,Scarborough,2010,"Automobile, Station Wagon",2010-02-15T05:00:00.000Z,0,Major Arterial,Dry, , , , , ,Yes, , 
--79.31689,43.821345,Scarborough,2010,Other,2010-04-13T04:00:00.000Z,5,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.39729,43.650945,Toronto and East York,2010,Other,2010-09-14T04:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, , , , 
--79.40909,43.765745,North York,2010,Other,2010-10-07T04:00:00.000Z,20,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.23929,43.719145000000005,Scarborough,2010,"Automobile, Station Wagon",2010-12-14T05:00:00.000Z,2,Major Arterial,Packed Snow, , , , , ,Yes, , 
--79.53139,43.604745,Etobicoke York,2010,Other,2010-03-02T05:00:00.000Z,16,Minor Arterial,Dry, , , ,Yes, , , ,Yes
--79.51989,43.756945,Etobicoke York,2010,Other,2010-01-08T05:00:00.000Z,18,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.29999000000001,43.825345,Scarborough,2010,Other,2010-12-28T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.56349,43.704845,Etobicoke York,2010,"Automobile, Station Wagon",2010-07-13T04:00:00.000Z,20,Major Arterial,Dry,Yes, ,Yes, , ,Yes, ,Yes
--79.42839000000001,43.682945000000004,Toronto and East York,2010,Other,2010-11-26T05:00:00.000Z,17,Local,Dry, , ,Yes,Yes, ,Yes, , 
--79.44849,43.691345,Toronto and East York,2010,Other,2010-01-20T05:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.43289,43.781245,North York,2010,Other,2010-07-31T04:00:00.000Z,7,Collector,Dry, ,Yes,Yes, , ,Yes, , 
--79.20709000000001,43.767545,Scarborough,2010,Motorcycle,2010-05-25T04:00:00.000Z,10,Minor Arterial,Dry, , , , , ,Yes,Yes, 
--79.49119,43.665745,Toronto and East York,2010,Other,2010-07-16T04:00:00.000Z,16,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.49119,43.665745,Toronto and East York,2010,Other,2010-07-16T04:00:00.000Z,16,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.38629,43.645845,Toronto and East York,2010,Other,2010-05-06T04:00:00.000Z,16,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.39219,43.638445000000004,Toronto and East York,2010,Bicycle,2010-11-19T05:00:00.000Z,7,Expressway,Dry, , , , ,Yes, , , 
--79.56319,43.674445,Etobicoke York,2010,Other,2010-01-12T05:00:00.000Z,12,Major Arterial,Dry,Yes, ,Yes,Yes, ,Yes, , 
--79.45179,43.653845000000004,Toronto and East York,2010,Other,2010-01-12T05:00:00.000Z,13,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.35139000000001,43.658545000000004,Toronto and East York,2010,Other,2010-01-24T05:00:00.000Z,0,Major Arterial,Dry, , , ,Yes, , , , 
--79.41469000000001,43.673945,Toronto and East York,2010,Other,2010-12-23T05:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.35889,43.676145,Toronto and East York,2010,Other,2010-01-22T05:00:00.000Z,11,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.59529,43.759545,Etobicoke York,2010,"Automobile, Station Wagon",2010-03-09T05:00:00.000Z,15,Major Arterial,Dry, , , , , ,Yes, ,Yes
--79.45589,43.662445,Toronto and East York,2010,Other,2010-11-17T05:00:00.000Z,8,Minor Arterial,Wet, , , ,Yes, , , ,Yes
--79.45329,43.670745000000004,Toronto and East York,2010,Other,2010-01-25T05:00:00.000Z,18,Minor Arterial,Wet, , , ,Yes, ,Yes, , 
--79.389987,43.658744,Toronto and East York,2010,Other,2010-06-06T04:00:00.000Z,8,Major Arterial,Wet, , , ,Yes, , , , 
--79.22939000000001,43.756845,Scarborough,2010,Other,2010-07-18T04:00:00.000Z,1,Collector,Dry, , , , , ,Yes, , 
--79.28869,43.704645,Scarborough,2010,Other,2010-02-18T05:00:00.000Z,0,Minor Arterial,Wet, , ,Yes, , ,Yes, , 
--79.39019,43.708445000000005,Toronto and East York,2010,Other,2010-01-18T05:00:00.000Z,6,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.306186,43.664344,Toronto and East York,2010,Other,2010-08-20T04:00:00.000Z,22,Major Arterial,Dry, , , ,Yes, , , , 
--79.44309,43.677945,Toronto and East York,2010,Other,2010-06-03T04:00:00.000Z,1,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.50859,43.720945,North York,2009,Other,2009-09-29T04:00:00.000Z,11,Major Arterial,Wet, , , ,Yes, , , ,Yes
--79.36929,43.672945,Toronto and East York,2009,Other,2009-12-17T05:00:00.000Z,19,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.44649100000001,43.715644,North York,2009,Other,2009-08-27T04:00:00.000Z,9,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.54349,43.756345,Etobicoke York,2009,Other,2009-10-21T04:00:00.000Z,12,Major Arterial,Wet, , , ,Yes, , , ,Yes
--79.449046,43.646327,Toronto and East York,2009,Other,2009-04-20T04:00:00.000Z,13,Minor Arterial,Wet, , ,Yes,Yes, , , , 
--79.27699,43.702545,Scarborough,2009,Other,2009-11-24T05:00:00.000Z,6,Minor Arterial,Wet, , , ,Yes, ,Yes, , 
--79.44449,43.746845,North York,2009,Other,2009-12-24T05:00:00.000Z,6,Local,Dry, , , ,Yes, ,Yes, , 
--79.564769,43.766535,Etobicoke York,2009,Other,2009-03-11T04:00:00.000Z,6,Major Arterial,Wet, , , ,Yes, , , ,Yes
--79.42629000000001,43.796645,North York,2009,Other,2009-10-16T04:00:00.000Z,13,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.28109,43.765745,Scarborough,2009,Other,2009-10-13T04:00:00.000Z,6,Major Arterial,Wet, , , , , ,Yes, , 
--79.22429,43.816945000000004,Scarborough,2009,Other,2009-10-23T04:00:00.000Z,7,Minor Arterial,Wet, , , ,Yes, ,Yes, , 
--79.31589,43.692745,Toronto and East York,2009,Other,2009-07-18T04:00:00.000Z,11,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.39979,43.686945,Toronto and East York,2009,Other,2009-05-01T04:00:00.000Z,12,Major Arterial,Dry, , , , , ,Yes, , 
--79.45799,43.732245,North York,2009,"Automobile, Station Wagon",2009-12-15T05:00:00.000Z,1,Major Arterial,Wet, , , , , ,Yes, , 
--79.49449,43.781545,North York,2009,"Automobile, Station Wagon",2009-10-31T04:00:00.000Z,9,Major Arterial,Wet,Yes, ,Yes, , ,Yes, , 
--79.39919,43.655845,Toronto and East York,2009,Bicycle,2009-09-01T04:00:00.000Z,12,Major Arterial,Dry, , , , ,Yes, , , 
--79.34849100000001,43.666346000000004,Toronto and East York,2009,Other,2009-03-13T04:00:00.000Z,9,Minor Arterial,Other, , ,Yes,Yes, , , , 
--79.21779000000001,43.738145,Scarborough,2009,"Automobile, Station Wagon",2009-12-23T05:00:00.000Z,9,Major Arterial,Dry, , , , , ,Yes, , 
--79.44049,43.792445,North York,2009,Other,2009-11-17T05:00:00.000Z,8,Collector,Dry, , , ,Yes, ,Yes, , 
--79.50789,43.759245,Etobicoke York,2009,Other,2009-10-17T04:00:00.000Z,23,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.23769,43.768945,Scarborough,2009,Other,2009-02-13T05:00:00.000Z,1,Collector,Dry, ,Yes, , , ,Yes, , 
--79.45429,43.741845,North York,2009,"Automobile, Station Wagon",2009-03-07T05:00:00.000Z,4,Expressway,Wet, , , , , ,Yes, , 
--79.29229000000001,43.767645,Scarborough,2009,Other,2009-11-12T05:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.38309,43.767745,North York,2009,Other,2009-01-06T05:00:00.000Z,13,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.57999000000001,43.738945,Etobicoke York,2009,Other,2009-09-15T04:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.37689,43.672345,Toronto and East York,2009,Other,2009-10-02T04:00:00.000Z,14,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.46439000000001,43.664945,Toronto and East York,2009,Other,2009-06-17T04:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, , , ,Yes
--79.30449,43.760345,Scarborough,2009,"Automobile, Station Wagon",2009-09-19T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.37829,43.666245,Toronto and East York,2009,Other,2009-04-03T04:00:00.000Z,14,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.25879,43.736045000000004,Scarborough,2009,Other,2009-11-03T05:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.28029000000001,43.684645,Scarborough,2009,Other,2009-08-07T04:00:00.000Z,14,Collector,Dry, , , ,Yes, ,Yes, , 
--79.46319,43.674045,Toronto and East York,2009,Other,2009-04-17T04:00:00.000Z,10,Minor Arterial,Dry, , , ,Yes, ,Yes, , 
--79.393192,43.668845000000005,Toronto and East York,2009, ,2009-08-31T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.44399,43.658045,Toronto and East York,2009,Other,2009-06-23T04:00:00.000Z,14,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.35469,43.792645,North York,2009,Other,2009-12-08T05:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes, , 
--79.54239,43.752045,Etobicoke York,2009,Other,2009-02-02T05:00:00.000Z,16,Major Arterial,Dry, , ,Yes,Yes, , , ,Yes
--79.39129,43.643445,Toronto and East York,2009,Other,2009-03-25T04:00:00.000Z,21,Minor Arterial,Wet, , ,Yes,Yes, , , ,Yes
--79.58209000000001,43.743245,Etobicoke York,2009,Other,2009-12-08T05:00:00.000Z,5,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.60669,43.733745,Etobicoke York,2009,Motorcycle,2009-06-05T04:00:00.000Z,15,Major Arterial,Dry, , ,Yes, , ,Yes,Yes, 
--79.50789,43.759245,Etobicoke York,2009,Other,2009-10-17T04:00:00.000Z,23,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.24249,43.793045,Scarborough,2009,Other,2009-06-30T04:00:00.000Z,19,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.32799,43.718745,North York,2009,Other,2009-07-06T04:00:00.000Z,20,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.24619,43.737045,Scarborough,2009,Other,2009-01-01T05:00:00.000Z,2,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.32799,43.718745,North York,2009,"Automobile, Station Wagon",2009-07-06T04:00:00.000Z,20,Expressway,Dry, , ,Yes, , ,Yes, , 
--79.30559000000001,43.731845,Scarborough,2009,Other,2009-09-11T04:00:00.000Z,20,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.21059,43.737845,Scarborough,2009,Other,2009-03-08T05:00:00.000Z,3,Collector,Wet, ,Yes,Yes, , ,Yes, , 
--79.50789,43.759245,Etobicoke York,2009,Other,2009-10-17T04:00:00.000Z,23,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.40999000000001,43.665345,Toronto and East York,2009,Other,2009-04-04T04:00:00.000Z,2,Major Arterial,Wet, ,Yes, ,Yes, ,Yes, , 
--79.56499000000001,43.684345,Etobicoke York,2008,Other,2008-01-05T05:00:00.000Z,19,Local,Wet, , , ,Yes, ,Yes, , 
--79.19869,43.802245,Scarborough,2008,"Automobile, Station Wagon",2008-12-13T05:00:00.000Z,21,Major Arterial,Wet, , , , , ,Yes, , 
--79.33645200000001,43.816846999999996,Scarborough,2008,Other,2008-11-11T05:00:00.000Z,7,Major Arterial,Dry, , ,Yes,Yes, , , , 
--79.32359,43.683345,Toronto and East York,2008,Other,2008-07-14T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.53399,43.594345000000004,Etobicoke York,2008,Other,2008-06-11T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.39019,43.671345,Toronto and East York,2008,Other,2008-05-30T04:00:00.000Z,7,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.30789,43.673945,Toronto and East York,2008,Truck - Open,2008-09-17T04:00:00.000Z,18,Major Arterial,Dry, , , , , ,Yes, ,Yes
--79.24369,43.737645,Scarborough,2008,Other,2008-01-05T05:00:00.000Z,18,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.24709,43.719645,Scarborough,2008,Other,2008-05-01T04:00:00.000Z,7,Minor Arterial,Dry, , , ,Yes, , , ,Yes
--79.58019,43.683645,Etobicoke York,2008,"Automobile, Station Wagon",2008-09-23T04:00:00.000Z,16,Major Arterial,Wet, , , , , ,Yes, ,Yes
--79.41219,43.677645,Toronto and East York,2008,Other,2008-07-13T04:00:00.000Z,20,Local,Dry, , , ,Yes, ,Yes, , 
--79.31939,43.725945,North York,2008,Other,2008-05-13T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.42059,43.737545000000004,North York,2008,Other,2008-01-07T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.31939,43.725945,North York,2008,Other,2008-05-13T04:00:00.000Z,20,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.31499000000001,43.794845,Scarborough,2008,Other,2008-11-26T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.60349000000001,43.719145000000005,Etobicoke York,2008,Other,2008-04-28T04:00:00.000Z,17,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.44269,43.735545,North York,2008,Other,2008-02-08T05:00:00.000Z,17,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.31619,43.797845,Scarborough,2008,Other,2008-08-17T04:00:00.000Z,21,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.36889000000001,43.678245000000004,Toronto and East York,2008,Motorcycle,2008-10-18T04:00:00.000Z,13,Major Arterial,Dry, , , , , ,Yes,Yes, 
--79.46649000000001,43.682045,Toronto and East York,2008,"Automobile, Station Wagon",2008-01-25T05:00:00.000Z,18,Minor Arterial,Dry, , ,Yes, , ,Yes, , 
--79.41029,43.704245,Toronto and East York,2008,Bicycle,2008-05-22T04:00:00.000Z,13,Major Arterial,Dry, , , , ,Yes,Yes, , 
--79.31159,43.693645000000004,Toronto and East York,2008,Other,2008-10-17T04:00:00.000Z,17,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.24579,43.819445,Scarborough,2008,Other,2008-09-08T04:00:00.000Z,21,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.53559,43.726445,Etobicoke York,2008,"Automobile, Station Wagon",2008-02-29T05:00:00.000Z,15,Major Arterial,Slush, , ,Yes, , ,Yes, ,Yes
--79.466892,43.636344,Toronto and East York,2008,Motorcycle,2008-10-03T04:00:00.000Z,23,Expressway,Dry, , ,Yes, , ,Yes,Yes, 
--79.38669,43.699245,Toronto and East York,2008,Other,2008-08-09T04:00:00.000Z,10,Major Arterial,Dry, , ,Yes,Yes, ,Yes, ,Yes
--79.422687,43.654345,Toronto and East York,2008,Other,2008-04-13T04:00:00.000Z,2,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.40189000000001,43.636045,Toronto and East York,2008,"Automobile, Station Wagon",2008-06-27T04:00:00.000Z,0,Major Arterial,Dry, ,Yes,Yes, , ,Yes, , 
--79.51949,43.694745000000005,Etobicoke York,2008,"Automobile, Station Wagon",2008-07-12T04:00:00.000Z,0,Major Arterial,Dry, , ,Yes, , ,Yes, , 
--79.41639,43.783245,North York,2008,Other,2008-10-02T04:00:00.000Z,10,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.46599,43.734645,North York,2008,Other,2008-08-26T04:00:00.000Z,11,Collector,Dry, , , ,Yes, ,Yes, , 
--79.31689,43.821345,Scarborough,2008,"Automobile, Station Wagon",2008-02-28T05:00:00.000Z,10,Major Arterial,Dry,Yes, ,Yes, , ,Yes, , 
--79.36789300000001,43.677146,Toronto and East York,2008,Motorcycle,2008-05-24T04:00:00.000Z,0,Major Arterial,Dry, , ,Yes, , , ,Yes, 
--79.32309000000001,43.796545,Scarborough,2008,"Automobile, Station Wagon",2008-05-03T04:00:00.000Z,2,Collector,Wet, ,Yes, , , ,Yes, , 
--79.42009,43.797945,North York,2008,Other,2008-07-21T04:00:00.000Z,3,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.33239,43.807745000000004,Scarborough,2008,Other,2008-06-14T04:00:00.000Z,0,Minor Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.33239,43.807745000000004,Scarborough,2008,Other,2008-06-14T04:00:00.000Z,0,Minor Arterial,Wet, , ,Yes,Yes, ,Yes, , 
--79.50589000000001,43.696745,Etobicoke York,2008,Other,2008-10-25T04:00:00.000Z,23,Collector,Dry, , , ,Yes, ,Yes, , 
--79.52109,43.718145,Etobicoke York,2008,"Automobile, Station Wagon",2008-09-28T04:00:00.000Z,5,Expressway,Wet, , ,Yes, , ,Yes, , 
--79.49899,43.697345,Etobicoke York,2008,Bicycle,2008-09-10T04:00:00.000Z,8,Minor Arterial,Dry, , ,Yes, ,Yes,Yes, , 
--79.58279,43.690045,Etobicoke York,2008,Truck - Open,2008-10-21T04:00:00.000Z,5,Major Arterial,Dry, , ,Yes, , , , ,Yes
--79.58519,43.714745,Etobicoke York,2008,Other,2008-01-08T05:00:00.000Z,5,Major Arterial,Dry, , , , , ,Yes, , 
--79.44399,43.636445,Toronto and East York,2008,Other,2008-11-03T05:00:00.000Z,9,Major Arterial,Dry, , , , , ,Yes, , 
--79.51249,43.685545,Etobicoke York,2008,"Automobile, Station Wagon",2008-03-09T05:00:00.000Z,9,Major Arterial,Packed Snow, , ,Yes, , ,Yes, , 
--79.31829,43.726145,North York,2008,Other,2008-10-24T04:00:00.000Z,22,Major Arterial,Wet, , , ,Yes, ,Yes, , 
--79.37959000000001,43.672345,Toronto and East York,2008,Other,2008-03-15T04:00:00.000Z,14,Major Arterial,Dry, , , ,Yes, ,Yes, , 
--79.49949000000001,43.666945,Etobicoke York,2008,Other,2008-06-18T04:00:00.000Z,9,Minor Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.51839,43.718745,Etobicoke York,2008,Other,2008-06-24T04:00:00.000Z,22,Major Arterial,Dry, , ,Yes,Yes, ,Yes, , 
--79.46399,43.788445,North York,2008,"Automobile, Station Wagon",2008-07-11T04:00:00.000Z,21,Major Arterial,Dry, , ,Yes, , ,Yes, ,Yes
--79.34909,43.782745,North York,2008,Other,2008-01-31T05:00:00.000Z,14,Major Arterial,Dry, , , , , ,Yes, , 
--79.15869,43.788645,Scarborough,2008,"Automobile, Station Wagon",2008-10-31T04:00:00.000Z,8,Expressway,Dry, , , , , ,Yes, , 
--79.44669,43.788245,North York,2008,Other,2008-02-24T05:00:00.000Z,21,Major Arterial,Dry, ,Yes, , , ,Yes, , 
--79.53559,43.726445,Etobicoke York,2008,Other,2008-02-29T05:00:00.000Z,15,Major Arterial,Slush, , ,Yes, , ,Yes, ,Yes
--79.24239,43.737945,Scarborough,2008,"Automobile, Station Wagon",2008-07-04T04:00:00.000Z,13,Major Arterial,Dry, , ,Yes, , ,Yes, , 
+,Longitude,Latitude,District,Neighbourhood,Year,Vehicle Type,Date,Hour,Median Income
+0,-79.22759,43.816245,Scarborough,Agincourt/Malvern,2012.0,Other,2012-01-12T05:00:00.000Z,5.0,68108.0
+1,-79.263774,43.801421000000005,Scarborough,Agincourt/Malvern,2015.0, ,2015-11-24T05:00:00.000Z,6.0,68108.0
+2,-79.20087,43.805159,Scarborough,Agincourt/Malvern,2015.0,"Automobile, Station Wagon",2015-10-06T04:00:00.000Z,6.0,68108.0
+3,-79.22429,43.816945000000004,Scarborough,Agincourt/Malvern,2009.0,Other,2009-10-23T04:00:00.000Z,7.0,68108.0
+4,-79.289455,43.78575,Scarborough,Agincourt/Malvern,2014.0, ,2014-08-16T04:00:00.000Z,5.0,68108.0
+5,-79.29066800000001,43.81116,Scarborough,Agincourt/Malvern,2016.0, ,2016-12-13T05:00:00.000Z,14.0,68108.0
+6,-79.28489,43.800545,Scarborough,Agincourt/Malvern,2011.0,"Automobile, Station Wagon",2011-09-01T04:00:00.000Z,15.0,68108.0
+7,-79.24006999999999,43.793504999999996,Scarborough,Agincourt/Malvern,2017.0, ,2017-06-13T04:00:00.000Z,16.0,68108.0
+8,-79.24306800000001,43.81296,Scarborough,Agincourt/Malvern,2015.0, ,2015-03-04T05:00:00.000Z,16.0,68108.0
+9,-79.263789,43.801444000000004,Scarborough,Agincourt/Malvern,2013.0, ,2013-07-08T04:00:00.000Z,17.0,68108.0
+10,-79.26992299999999,43.790507,Scarborough,Agincourt/Malvern,2018.0, ,2018-01-02T05:00:00.000Z,17.0,68108.0
+11,-79.21767,43.798106,Scarborough,Agincourt/Malvern,2014.0,Bicycle,2014-08-01T04:00:00.000Z,17.0,68108.0
+12,-79.22759599999999,43.816252,Scarborough,Agincourt/Malvern,2014.0, ,2014-12-19T05:00:00.000Z,17.0,68108.0
+13,-79.240093,43.788844,Scarborough,Agincourt/Malvern,2013.0, ,2013-09-05T04:00:00.000Z,18.0,68108.0
+14,-79.255756,43.783583,Scarborough,Agincourt/Malvern,2016.0,Motorcycle,2016-07-06T04:00:00.000Z,18.0,68108.0
+15,-79.215091,43.818743,Scarborough,Agincourt/Malvern,2013.0,"Automobile, Station Wagon",2013-01-10T05:00:00.000Z,18.0,68108.0
+16,-79.24249,43.793045,Scarborough,Agincourt/Malvern,2009.0,Other,2009-06-30T04:00:00.000Z,19.0,68108.0
+17,-79.19909,43.800245000000004,Scarborough,Agincourt/Malvern,2012.0,Other,2012-04-21T04:00:00.000Z,20.0,68108.0
+18,-79.284488,43.792746,Scarborough,Agincourt/Malvern,2013.0,Motorcycle,2013-07-03T04:00:00.000Z,21.0,68108.0
+19,-79.21289,43.799145,Scarborough,Agincourt/Malvern,2011.0,Other,2011-03-24T04:00:00.000Z,22.0,68108.0
+20,-79.213535,43.814105,Scarborough,Agincourt/Malvern,2018.0,"Automobile, Station Wagon",2018-04-21T04:00:00.000Z,23.0,68108.0
+21,-79.27089000000001,43.780945,Scarborough,Agincourt/Malvern,2012.0,"Automobile, Station Wagon",2012-08-25T04:00:00.000Z,23.0,68108.0
+22,-79.211665,43.816607,Scarborough,Agincourt/Malvern,2017.0, ,2017-05-05T04:00:00.000Z,23.0,68108.0
+23,-79.25768599999999,43.809844,Scarborough,Agincourt/Malvern,2013.0, ,2013-08-18T04:00:00.000Z,10.0,68108.0
+24,-79.19929,43.800745,Scarborough,Agincourt/Malvern,2012.0,"Automobile, Station Wagon",2012-04-19T04:00:00.000Z,12.0,68108.0
+25,-79.447742,43.637614,Toronto and East York,South Parkdale/King West,2013.0,"Automobile, Station Wagon",2013-11-29T05:00:00.000Z,5.0,63425.0
+26,-79.423999,43.640547,Toronto and East York,South Parkdale/King West,2013.0,"Automobile, Station Wagon",2013-06-16T04:00:00.000Z,6.0,63425.0
+27,-79.43804499999999,43.634032,Toronto and East York,South Parkdale/King West,2013.0, ,2013-09-30T04:00:00.000Z,8.0,63425.0
+28,-79.431827,43.63795,Toronto and East York,South Parkdale/King West,2017.0,Bicycle,2017-10-18T04:00:00.000Z,9.0,63425.0
+29,-79.44399,43.636445,Toronto and East York,South Parkdale/King West,2008.0,Other,2008-11-03T05:00:00.000Z,9.0,63425.0
+30,-79.40189000000001,43.636045,Toronto and East York,South Parkdale/King West,2008.0,"Automobile, Station Wagon",2008-06-27T04:00:00.000Z,0.0,63425.0
+31,-79.470248,43.634787,Toronto and East York,South Parkdale/King West,2012.0,Motorcycle,2012-09-14T04:00:00.000Z,1.0,63425.0
+32,-79.429286,43.632643,Toronto and East York,South Parkdale/King West,2012.0,Other,2012-02-06T05:00:00.000Z,2.0,63425.0
+33,-79.435222,43.633078000000005,Toronto and East York,South Parkdale/King West,2016.0,"Automobile, Station Wagon",2016-10-31T04:00:00.000Z,2.0,63425.0
+34,-79.472667,43.633497999999996,Toronto and East York,South Parkdale/King West,2017.0,"Automobile, Station Wagon",2017-01-29T05:00:00.000Z,3.0,63425.0
+35,-79.458881,43.637709,Toronto and East York,South Parkdale/King West,2018.0,Bicycle,2018-05-15T04:00:00.000Z,15.0,63425.0
+36,-79.436572,43.637053,Toronto and East York,South Parkdale/King West,2014.0, ,2014-10-09T04:00:00.000Z,17.0,63425.0
+37,-79.44137099999999,43.635432,Toronto and East York,South Parkdale/King West,2017.0,Bicycle,2017-05-24T04:00:00.000Z,18.0,63425.0
+38,-79.44248499999999,43.639426,Toronto and East York,South Parkdale/King West,2013.0, ,2013-08-23T04:00:00.000Z,18.0,63425.0
+39,-79.427638,43.630686,Toronto and East York,South Parkdale/King West,2018.0,Motorcycle,2018-06-02T04:00:00.000Z,19.0,63425.0
+40,-79.43909000000001,43.634444,Toronto and East York,South Parkdale/King West,2013.0, ,2013-08-03T04:00:00.000Z,20.0,63425.0
+41,-79.434711,43.63745,Toronto and East York,South Parkdale/King West,2014.0, ,2014-09-22T04:00:00.000Z,20.0,63425.0
+42,-79.41212,43.637427,Toronto and East York,South Parkdale/King West,2015.0,Motorcycle,2015-04-01T04:00:00.000Z,23.0,63425.0
+43,-79.45899,43.637945,Toronto and East York,South Parkdale/King West,2010.0,Bicycle,2010-09-26T04:00:00.000Z,23.0,63425.0
+44,-79.466892,43.636344,Toronto and East York,South Parkdale/King West,2008.0,Motorcycle,2008-10-03T04:00:00.000Z,23.0,63425.0
+45,-79.435138,43.633349,Toronto and East York,South Parkdale/King West,2015.0,Motorcycle,2015-09-06T04:00:00.000Z,10.0,63425.0
+46,-79.259883,43.716772999999996,Scarborough,Clairlea-Birchmount,2018.0,Motorcycle,2018-06-14T04:00:00.000Z,5.0,68524.0
+47,-79.27699,43.702545,Scarborough,Clairlea-Birchmount,2009.0,Other,2009-11-24T05:00:00.000Z,6.0,68524.0
+48,-79.28869,43.704645,Scarborough,Clairlea-Birchmount,2010.0,Other,2010-02-18T05:00:00.000Z,0.0,68524.0
+49,-79.267062,43.708708,Scarborough,Clairlea-Birchmount,2014.0, ,2014-02-12T05:00:00.000Z,1.0,68524.0
+50,-79.297504,43.725642,Scarborough,Clairlea-Birchmount,2016.0,"Automobile, Station Wagon",2016-10-30T04:00:00.000Z,2.0,68524.0
+51,-79.260387,43.715674,Scarborough,Clairlea-Birchmount,2016.0, ,2016-06-17T04:00:00.000Z,3.0,68524.0
+52,-79.282733,43.716109,Scarborough,Clairlea-Birchmount,2018.0, ,2018-07-30T04:00:00.000Z,14.0,68524.0
+53,-79.30168499999999,43.722369,Scarborough,Clairlea-Birchmount,2013.0, ,2013-12-24T05:00:00.000Z,15.0,68524.0
+54,-79.302089,43.723372,Scarborough,Clairlea-Birchmount,2014.0,Bicycle,2014-10-28T04:00:00.000Z,15.0,68524.0
+55,-79.280689,43.729346,Scarborough,Clairlea-Birchmount,2013.0, ,2013-01-23T05:00:00.000Z,15.0,68524.0
+56,-79.26977099999999,43.711009000000004,Scarborough,Clairlea-Birchmount,2017.0, ,2017-09-28T04:00:00.000Z,16.0,68524.0
+57,-79.302089,43.723372,Scarborough,Clairlea-Birchmount,2014.0, ,2014-08-20T04:00:00.000Z,16.0,68524.0
+58,-79.25989,43.716845,Scarborough,Clairlea-Birchmount,2010.0,Other,2010-12-11T05:00:00.000Z,19.0,68524.0
+59,-79.285129,43.711141999999995,Scarborough,Clairlea-Birchmount,2014.0, ,2014-02-12T05:00:00.000Z,20.0,68524.0
+60,-79.302638,43.724711,Scarborough,Clairlea-Birchmount,2015.0, ,2015-03-27T04:00:00.000Z,20.0,68524.0
+61,-79.270191,43.711943,Scarborough,Clairlea-Birchmount,2013.0, ,2013-02-02T05:00:00.000Z,10.0,68524.0
+62,-79.31689,43.821345,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2010.0,Other,2010-04-13T04:00:00.000Z,5.0,74082.0
+63,-79.33645200000001,43.816846999999996,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2008.0,Other,2008-11-11T05:00:00.000Z,7.0,74082.0
+64,-79.31689,43.821345,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2012.0,Other,2012-05-07T04:00:00.000Z,8.0,74082.0
+65,-79.307048,43.823569,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2018.0, ,2018-05-29T04:00:00.000Z,9.0,74082.0
+66,-79.33239,43.807745000000004,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2008.0,Other,2008-06-14T04:00:00.000Z,0.0,74082.0
+67,-79.33239,43.807745000000004,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2008.0,Other,2008-06-14T04:00:00.000Z,0.0,74082.0
+68,-79.380786,43.795336,North York,Bayview Woods-Steeles/Hillcrest Village,2017.0,"Automobile, Station Wagon",2017-04-13T04:00:00.000Z,1.0,74082.0
+69,-79.314189,43.807944,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2012.0,Other,2012-10-21T04:00:00.000Z,3.0,74082.0
+70,-79.306857,43.818521999999994,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2018.0, ,2018-02-27T05:00:00.000Z,15.0,74082.0
+71,-79.392772,43.788287,North York,Bayview Woods-Steeles/Hillcrest Village,2018.0,"Automobile, Station Wagon",2018-02-17T05:00:00.000Z,23.0,74082.0
+72,-79.330722,43.804114,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2014.0, ,2014-07-08T04:00:00.000Z,10.0,74082.0
+73,-79.31689,43.821345,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2008.0,"Automobile, Station Wagon",2008-02-28T05:00:00.000Z,10.0,74082.0
+74,-79.336467,43.816844,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2016.0,"Automobile, Station Wagon",2016-01-14T05:00:00.000Z,11.0,74082.0
+75,-79.32454200000001,43.81428,Scarborough,Bayview Woods-Steeles/Hillcrest Village,2018.0, ,2018-01-24T05:00:00.000Z,11.0,74082.0
+76,-79.35948499999999,43.809378,North York,Bayview Woods-Steeles/Hillcrest Village,2014.0, ,2014-11-07T05:00:00.000Z,12.0,74082.0
+77,-79.574641,43.728128999999996,Etobicoke York,Rexdale-Kipling,2014.0, ,2014-11-09T05:00:00.000Z,5.0,63232.0
+78,-79.574641,43.728128999999996,Etobicoke York,Rexdale-Kipling,2016.0, ,2016-07-04T04:00:00.000Z,20.0,63232.0
+79,-79.51343100000001,43.758047999999995,Etobicoke York,Victoria Village,2014.0, ,2014-11-21T05:00:00.000Z,6.0,51867.0
+80,-79.509639,43.7396,North York,Victoria Village,2017.0, ,2017-03-04T05:00:00.000Z,10.0,51867.0
+81,-79.507922,43.759271999999996,Etobicoke York,Victoria Village,2015.0,Bicycle,2015-06-11T04:00:00.000Z,0.0,51867.0
+82,-79.513202,43.739379,North York,Victoria Village,2016.0, ,2016-04-10T04:00:00.000Z,3.0,51867.0
+83,-79.513202,43.739379,North York,Victoria Village,2016.0, ,2016-04-10T04:00:00.000Z,3.0,51867.0
+84,-79.513202,43.739379,North York,Victoria Village,2016.0, ,2016-04-10T04:00:00.000Z,3.0,51867.0
+85,-79.31929000000001,43.741145,North York,Victoria Village,2011.0,"Automobile, Station Wagon",2011-12-23T05:00:00.000Z,5.0,51867.0
+86,-79.51239,43.758245,Etobicoke York,Victoria Village,2012.0,Other,2012-04-02T04:00:00.000Z,5.0,51867.0
+87,-79.32799,43.740245,North York,Victoria Village,2011.0,Other,2011-08-30T04:00:00.000Z,14.0,51867.0
+88,-79.31939,43.725945,North York,Victoria Village,2008.0,Other,2008-05-13T04:00:00.000Z,20.0,51867.0
+89,-79.31939,43.725945,North York,Victoria Village,2008.0,Other,2008-05-13T04:00:00.000Z,20.0,51867.0
+90,-79.301288,43.721343,Scarborough,Victoria Village,2013.0, ,2013-03-05T05:00:00.000Z,21.0,51867.0
+91,-79.31829,43.726145,North York,Victoria Village,2008.0,Other,2008-10-24T04:00:00.000Z,22.0,51867.0
+92,-79.296924,43.702246,North York,Victoria Village,2014.0, ,2014-08-17T04:00:00.000Z,23.0,51867.0
+93,-79.50789,43.759245,Etobicoke York,Victoria Village,2009.0,Other,2009-10-17T04:00:00.000Z,23.0,51867.0
+94,-79.50789,43.759245,Etobicoke York,Victoria Village,2009.0,Other,2009-10-17T04:00:00.000Z,23.0,51867.0
+95,-79.50789,43.759245,Etobicoke York,Victoria Village,2009.0,Other,2009-10-17T04:00:00.000Z,23.0,51867.0
+96,-79.297221,43.693529999999996,Toronto and East York,Victoria Village,2016.0, ,2016-02-18T05:00:00.000Z,13.0,51867.0
+97,-79.43739000000001,43.652745,Toronto and East York,Dufferin Grove/Little Portugal,2011.0,"Automobile, Station Wagon",2011-08-16T04:00:00.000Z,6.0,63479.0
+98,-79.43634300000001,43.651801,Toronto and East York,Dufferin Grove/Little Portugal,2015.0, ,2015-01-25T05:00:00.000Z,7.0,63479.0
+99,-79.44399,43.658045,Toronto and East York,Dufferin Grove/Little Portugal,2009.0,Other,2009-06-23T04:00:00.000Z,14.0,63479.0
+100,-79.430408,43.660933,Toronto and East York,Dufferin Grove/Little Portugal,2015.0, ,2015-05-31T04:00:00.000Z,21.0,63479.0
+101,-79.433688,43.649745,Toronto and East York,Dufferin Grove/Little Portugal,2013.0, ,2013-02-06T05:00:00.000Z,10.0,63479.0
+102,-79.428958,43.649501,Toronto and East York,Dufferin Grove/Little Portugal,2017.0, ,2017-08-25T04:00:00.000Z,11.0,63479.0
+103,-79.44299000000001,43.650645000000004,Toronto and East York,Dufferin Grove/Little Portugal,2011.0,Bicycle,2011-11-07T05:00:00.000Z,11.0,63479.0
+104,-79.44189,43.650445,Toronto and East York,Dufferin Grove/Little Portugal,2010.0,Other,2010-05-13T04:00:00.000Z,11.0,63479.0
+105,-79.58712299999999,43.699228999999995,Etobicoke York,West Humber-Clairville,2014.0,"Automobile, Station Wagon",2014-05-21T04:00:00.000Z,6.0,70741.0
+106,-79.61288,43.755641,Etobicoke York,West Humber-Clairville,2017.0, ,2017-09-15T04:00:00.000Z,6.0,70741.0
+107,-79.57712099999999,43.705172,Etobicoke York,West Humber-Clairville,2018.0,Motorcycle,2018-05-30T04:00:00.000Z,3.0,70741.0
+108,-79.58279,43.690045,Etobicoke York,West Humber-Clairville,2008.0,Truck - Open,2008-10-21T04:00:00.000Z,5.0,70741.0
+109,-79.58519,43.714745,Etobicoke York,West Humber-Clairville,2008.0,Other,2008-01-08T05:00:00.000Z,5.0,70741.0
+110,-79.617862,43.73503,Etobicoke York,West Humber-Clairville,2014.0, ,2014-07-28T04:00:00.000Z,5.0,70741.0
+111,-79.60306899999999,43.734159999999996,Etobicoke York,West Humber-Clairville,2013.0,Other,2013-07-25T04:00:00.000Z,13.0,70741.0
+112,-79.600063,43.727339,Etobicoke York,West Humber-Clairville,2016.0,"Automobile, Station Wagon",2016-05-24T04:00:00.000Z,13.0,70741.0
+113,-79.574893,43.764346,Etobicoke York,West Humber-Clairville,2012.0,"Automobile, Station Wagon",2012-01-30T05:00:00.000Z,14.0,70741.0
+114,-79.606792,43.730746,Etobicoke York,West Humber-Clairville,2013.0, ,2013-08-27T04:00:00.000Z,15.0,70741.0
+115,-79.60669,43.733745,Etobicoke York,West Humber-Clairville,2009.0,Motorcycle,2009-06-05T04:00:00.000Z,15.0,70741.0
+116,-79.58019,43.683645,Etobicoke York,West Humber-Clairville,2008.0,"Automobile, Station Wagon",2008-09-23T04:00:00.000Z,16.0,70741.0
+117,-79.60349000000001,43.719145000000005,Etobicoke York,West Humber-Clairville,2008.0,Other,2008-04-28T04:00:00.000Z,17.0,70741.0
+118,-79.29999000000001,43.825345,Scarborough,West Humber-Clairville,2010.0,Other,2010-12-28T05:00:00.000Z,17.0,70741.0
+119,-79.592754,43.711352000000005,Etobicoke York,West Humber-Clairville,2015.0,Bicycle,2015-11-03T05:00:00.000Z,17.0,70741.0
+120,-79.611308,43.720599,Etobicoke York,West Humber-Clairville,2016.0,Motorcycle,2016-08-05T04:00:00.000Z,18.0,70741.0
+121,-79.58959,43.695545,Etobicoke York,West Humber-Clairville,2012.0,Other,2012-09-22T04:00:00.000Z,18.0,70741.0
+122,-79.619815,43.754172,Etobicoke York,West Humber-Clairville,2013.0,Motorcycle,2013-09-25T04:00:00.000Z,18.0,70741.0
+123,-79.57079,43.691545,Etobicoke York,West Humber-Clairville,2011.0,Other,2011-09-23T04:00:00.000Z,19.0,70741.0
+124,-79.56349,43.704845,Etobicoke York,West Humber-Clairville,2010.0,"Automobile, Station Wagon",2010-07-13T04:00:00.000Z,20.0,70741.0
+125,-79.59279000000001,43.711345,Etobicoke York,West Humber-Clairville,2010.0,Other,2010-09-26T04:00:00.000Z,22.0,70741.0
+126,-79.583987,43.688479,Etobicoke York,West Humber-Clairville,2018.0, ,2018-05-04T04:00:00.000Z,23.0,70741.0
+127,-79.59679,43.720045,Etobicoke York,West Humber-Clairville,2012.0,Other,2012-07-28T04:00:00.000Z,12.0,70741.0
+128,-79.61201,43.720431,Etobicoke York,West Humber-Clairville,2017.0, ,2017-03-04T05:00:00.000Z,12.0,70741.0
+129,-79.42629000000001,43.796645,North York,West Humber-Clairville,2009.0,Other,2009-10-16T04:00:00.000Z,13.0,70741.0
+130,-79.62099,43.753945,Etobicoke York,West Humber-Clairville,2011.0,"Automobile, Station Wagon",2011-09-12T04:00:00.000Z,13.0,70741.0
+131,-79.326206,43.664164,Toronto and East York,The Beaches,2015.0,Motorcycle,2015-09-18T04:00:00.000Z,6.0,100365.0
+132,-79.288913,43.672746999999994,Toronto and East York,The Beaches,2016.0, ,2016-05-03T04:00:00.000Z,9.0,100365.0
+133,-79.312587,43.667243,Toronto and East York,The Beaches,2013.0, ,2013-05-12T04:00:00.000Z,1.0,100365.0
+134,-79.30789,43.673945,Toronto and East York,The Beaches,2008.0,Truck - Open,2008-09-17T04:00:00.000Z,18.0,100365.0
+135,-79.328265,43.682341,Toronto and East York,The Beaches,2015.0, ,2015-12-30T05:00:00.000Z,23.0,100365.0
+136,-79.29131600000001,43.765433,Scarborough,Dorset Park,2015.0, ,2015-01-28T05:00:00.000Z,6.0,57986.0
+137,-79.291301,43.763327000000004,Scarborough,Dorset Park,2018.0, ,2018-11-09T05:00:00.000Z,6.0,57986.0
+138,-79.28109,43.765745,Scarborough,Dorset Park,2009.0,Other,2009-10-13T04:00:00.000Z,6.0,57986.0
+139,-79.287677,43.764189,Scarborough,Dorset Park,2017.0, ,2017-01-08T05:00:00.000Z,18.0,57986.0
+140,-79.282741,43.773322,Scarborough,Dorset Park,2018.0, ,2018-02-21T05:00:00.000Z,18.0,57986.0
+141,-79.283893,43.773146000000004,Scarborough,Dorset Park,2013.0,Bicycle,2013-04-13T04:00:00.000Z,18.0,57986.0
+142,-79.280681,43.764497999999996,Scarborough,Dorset Park,2016.0, ,2016-01-03T05:00:00.000Z,19.0,57986.0
+143,-79.286601,43.751868,Scarborough,Dorset Park,2017.0, ,2017-12-01T05:00:00.000Z,23.0,57986.0
+144,-79.379863,43.655387,Toronto and East York,Church-Yonge Corridor,2014.0, ,2014-09-10T04:00:00.000Z,6.0,56366.0
+145,-79.469287,43.637206,Toronto and East York,High Park-Swansea,2018.0, ,2018-10-01T04:00:00.000Z,6.0,82753.0
+146,-79.45055699999999,43.639189,Toronto and East York,High Park-Swansea,2015.0, ,2015-09-24T04:00:00.000Z,6.0,82753.0
+147,-79.45827,43.650427,Toronto and East York,High Park-Swansea,2018.0,Motorcycle,2018-09-15T04:00:00.000Z,2.0,82753.0
+148,-79.457828,43.655169,Toronto and East York,High Park-Swansea,2015.0, ,2015-05-16T04:00:00.000Z,3.0,82753.0
+149,-79.484439,43.64926,Toronto and East York,High Park-Swansea,2017.0,Motorcycle,2017-07-18T04:00:00.000Z,15.0,82753.0
+150,-79.471744,43.652056,Toronto and East York,High Park-Swansea,2017.0,"Automobile, Station Wagon",2017-03-07T05:00:00.000Z,15.0,82753.0
+151,-79.394183,43.675101,Toronto and East York,Annex,2018.0, ,2018-12-22T05:00:00.000Z,6.0,67995.0
+152,-79.39019,43.671345,Toronto and East York,Annex,2008.0,Other,2008-05-30T04:00:00.000Z,7.0,67995.0
+153,-79.40999000000001,43.665345,Toronto and East York,Annex,2009.0,Other,2009-04-04T04:00:00.000Z,2.0,67995.0
+154,-79.396594,43.674712,Toronto and East York,Annex,2015.0,Bicycle,2015-06-13T04:00:00.000Z,23.0,67995.0
+155,-79.40209499999999,43.663043,Toronto and East York,Annex,2013.0, ,2013-11-07T05:00:00.000Z,11.0,67995.0
+156,-79.399799,43.667445,Toronto and East York,Annex,2018.0,Bicycle,2018-06-12T04:00:00.000Z,12.0,67995.0
+157,-79.39499,43.645445,Toronto and East York,Waterfront Communities-The Island,2011.0,Other,2011-10-21T04:00:00.000Z,6.0,78479.0
+158,-79.36725899999999,43.648974,Toronto and East York,Waterfront Communities-The Island,2017.0, ,2017-01-03T05:00:00.000Z,7.0,78479.0
+159,-79.39819,43.646245,Toronto and East York,Waterfront Communities-The Island,2012.0,Other,2012-06-14T04:00:00.000Z,7.0,78479.0
+160,-79.39219,43.638445000000004,Toronto and East York,Waterfront Communities-The Island,2010.0,Bicycle,2010-11-19T05:00:00.000Z,7.0,78479.0
+161,-79.39563299999999,43.637957,Toronto and East York,Waterfront Communities-The Island,2017.0, ,2017-01-29T05:00:00.000Z,1.0,78479.0
+162,-79.392284,43.640692,Toronto and East York,Waterfront Communities-The Island,2016.0, ,2016-06-14T04:00:00.000Z,14.0,78479.0
+163,-79.38629,43.645845,Toronto and East York,Waterfront Communities-The Island,2010.0,Other,2010-05-06T04:00:00.000Z,16.0,78479.0
+164,-79.34849100000001,43.650244,Toronto and East York,Waterfront Communities-The Island,2013.0, ,2013-03-29T04:00:00.000Z,17.0,78479.0
+165,-79.36342900000001,43.645872999999995,Toronto and East York,Waterfront Communities-The Island,2016.0, ,2016-07-02T04:00:00.000Z,18.0,78479.0
+166,-79.35619,43.649045,Toronto and East York,Waterfront Communities-The Island,2011.0,Motorcycle,2011-04-30T04:00:00.000Z,18.0,78479.0
+167,-79.39129,43.643445,Toronto and East York,Waterfront Communities-The Island,2009.0,Other,2009-03-25T04:00:00.000Z,21.0,78479.0
+168,-79.377452,43.642066,Toronto and East York,Waterfront Communities-The Island,2016.0,Motorcycle,2016-09-01T04:00:00.000Z,22.0,78479.0
+169,-79.37382099999999,43.648543,Toronto and East York,Waterfront Communities-The Island,2017.0, ,2017-12-15T05:00:00.000Z,12.0,78479.0
+170,-79.377811,43.642996000000004,Toronto and East York,Waterfront Communities-The Island,2013.0, ,2013-07-03T04:00:00.000Z,13.0,78479.0
+171,-79.315753,43.796763,Scarborough,L'Amoreaux/Steeles/Milliken,2016.0, ,2016-08-30T04:00:00.000Z,6.0,62871.0
+172,-79.301936,43.812129,Scarborough,L'Amoreaux/Steeles/Milliken,2015.0, ,2015-02-16T05:00:00.000Z,6.0,62871.0
+173,-79.32309000000001,43.796545,Scarborough,L'Amoreaux/Steeles/Milliken,2008.0,"Automobile, Station Wagon",2008-05-03T04:00:00.000Z,2.0,62871.0
+174,-79.29659000000001,43.801245,Scarborough,L'Amoreaux/Steeles/Milliken,2011.0,"Automobile, Station Wagon",2011-10-10T04:00:00.000Z,5.0,62871.0
+175,-79.31499000000001,43.794845,Scarborough,L'Amoreaux/Steeles/Milliken,2008.0,Other,2008-11-26T05:00:00.000Z,17.0,62871.0
+176,-79.28999,43.809645,Scarborough,L'Amoreaux/Steeles/Milliken,2012.0,Other,2012-11-27T05:00:00.000Z,17.0,62871.0
+177,-79.324161,43.777732,Scarborough,L'Amoreaux/Steeles/Milliken,2016.0, ,2016-04-22T04:00:00.000Z,17.0,62871.0
+178,-79.299571,43.800383000000004,Scarborough,L'Amoreaux/Steeles/Milliken,2018.0, ,2018-12-07T05:00:00.000Z,18.0,62871.0
+179,-79.26276700000001,43.827811,Scarborough,L'Amoreaux/Steeles/Milliken,2017.0, ,2017-12-20T05:00:00.000Z,18.0,62871.0
+180,-79.303623,43.824481,Scarborough,L'Amoreaux/Steeles/Milliken,2013.0, ,2013-10-08T04:00:00.000Z,21.0,62871.0
+181,-79.31619,43.797845,Scarborough,L'Amoreaux/Steeles/Milliken,2008.0,Other,2008-08-17T04:00:00.000Z,21.0,62871.0
+182,-79.274997,43.829547,Scarborough,L'Amoreaux/Steeles/Milliken,2017.0, ,2017-09-28T04:00:00.000Z,21.0,62871.0
+183,-79.311565,43.786906,Scarborough,L'Amoreaux/Steeles/Milliken,2011.0,Other,2011-07-01T04:00:00.000Z,22.0,62871.0
+184,-79.267993,43.832644,Scarborough,L'Amoreaux/Steeles/Milliken,2013.0, ,2013-08-13T04:00:00.000Z,11.0,62871.0
+185,-79.44449,43.746845,North York,Clanton Park,2009.0,Other,2009-12-24T05:00:00.000Z,6.0,69997.0
+186,-79.45799,43.732245,North York,Clanton Park,2009.0,"Automobile, Station Wagon",2009-12-15T05:00:00.000Z,1.0,69997.0
+187,-79.45429,43.741845,North York,Clanton Park,2009.0,"Automobile, Station Wagon",2009-03-07T05:00:00.000Z,4.0,69997.0
+188,-79.44279,43.735545,North York,Clanton Park,2011.0,Other,2011-10-18T04:00:00.000Z,5.0,69997.0
+189,-79.44269,43.735545,North York,Clanton Park,2008.0,Other,2008-02-08T05:00:00.000Z,17.0,69997.0
+190,-79.447238,43.734515,North York,Clanton Park,2017.0,Motorcycle,2017-05-08T04:00:00.000Z,18.0,69997.0
+191,-79.45669000000001,43.751645,North York,Clanton Park,2012.0,Other,2012-07-08T04:00:00.000Z,18.0,69997.0
+192,-79.438556,43.736334,North York,Clanton Park,2018.0,"Automobile, Station Wagon",2018-05-20T04:00:00.000Z,23.0,69997.0
+193,-79.458873,43.73202,North York,Clanton Park,2017.0, ,2017-04-11T04:00:00.000Z,10.0,69997.0
+194,-79.454883,43.74869,North York,Clanton Park,2015.0, ,2015-03-28T04:00:00.000Z,12.0,69997.0
+195,-79.448291,43.671546,Toronto and East York,Dovercourt/Davenport/Junction,2012.0,Bicycle,2012-11-23T05:00:00.000Z,6.0,65167.0
+196,-79.42689,43.661745,Toronto and East York,Dovercourt/Davenport/Junction,2011.0,Other,2011-01-29T05:00:00.000Z,0.0,65167.0
+197,-79.44309,43.677945,Toronto and East York,Dovercourt/Davenport/Junction,2010.0,Other,2010-06-03T04:00:00.000Z,1.0,65167.0
+198,-79.476505,43.670558,Etobicoke York,Dovercourt/Davenport/Junction,2014.0, ,2014-08-30T04:00:00.000Z,4.0,65167.0
+199,-79.44329,43.678645,Toronto and East York,Dovercourt/Davenport/Junction,2011.0,Other,2011-01-21T05:00:00.000Z,5.0,65167.0
+200,-79.468509,43.672331,Etobicoke York,Dovercourt/Davenport/Junction,2014.0, ,2014-09-30T04:00:00.000Z,16.0,65167.0
+201,-79.46439000000001,43.664945,Toronto and East York,Dovercourt/Davenport/Junction,2009.0,Other,2009-06-17T04:00:00.000Z,17.0,65167.0
+202,-79.437427,43.664706,Toronto and East York,Dovercourt/Davenport/Junction,2016.0, ,2016-01-30T05:00:00.000Z,17.0,65167.0
+203,-79.45329,43.670745000000004,Toronto and East York,Dovercourt/Davenport/Junction,2010.0,Other,2010-01-25T05:00:00.000Z,18.0,65167.0
+204,-79.45193,43.675994,Toronto and East York,Dovercourt/Davenport/Junction,2014.0, ,2014-08-07T04:00:00.000Z,22.0,65167.0
+205,-79.479152,43.669959000000006,Etobicoke York,Dovercourt/Davenport/Junction,2016.0,"Automobile, Station Wagon",2016-09-29T04:00:00.000Z,10.0,65167.0
+206,-79.46319,43.674045,Toronto and East York,Dovercourt/Davenport/Junction,2009.0,Other,2009-04-17T04:00:00.000Z,10.0,65167.0
+207,-79.426227,43.663294,Toronto and East York,Dovercourt/Davenport/Junction,2018.0,Other,2018-10-18T04:00:00.000Z,12.0,65167.0
+208,-79.42372399999999,43.671199,Toronto and East York,Dovercourt/Davenport/Junction,2016.0,Bicycle,2016-07-05T04:00:00.000Z,12.0,65167.0
+209,-79.332736,43.689231,Toronto and East York,Danforth Village-East York,2015.0, ,2015-03-10T04:00:00.000Z,6.0,81253.0
+210,-79.328006,43.694125,Scarborough,Danforth Village-East York,2014.0, ,2014-12-12T05:00:00.000Z,18.0,81253.0
+211,-79.31589,43.692745,Toronto and East York,Danforth Village-East York,2009.0,Other,2009-07-18T04:00:00.000Z,11.0,81253.0
+212,-79.564769,43.766535,Etobicoke York,Mount Olive-Silverstone-Jamestown,2009.0,Other,2009-03-11T04:00:00.000Z,6.0,57414.0
+213,-79.562267,43.747714,Etobicoke York,Mount Olive-Silverstone-Jamestown,2018.0, ,2018-02-02T05:00:00.000Z,9.0,57414.0
+214,-79.53622,43.753218,Etobicoke York,Mount Olive-Silverstone-Jamestown,2018.0,"Automobile, Station Wagon",2018-04-23T04:00:00.000Z,0.0,57414.0
+215,-79.589862,43.759535,Etobicoke York,Mount Olive-Silverstone-Jamestown,2018.0, ,2018-06-29T04:00:00.000Z,1.0,57414.0
+216,-79.57728900000001,43.763743,Etobicoke York,Mount Olive-Silverstone-Jamestown,2013.0,"Automobile, Station Wagon",2013-08-03T04:00:00.000Z,3.0,57414.0
+217,-79.58209000000001,43.743245,Etobicoke York,Mount Olive-Silverstone-Jamestown,2009.0,Other,2009-12-08T05:00:00.000Z,5.0,57414.0
+218,-79.57999000000001,43.738945,Etobicoke York,Mount Olive-Silverstone-Jamestown,2009.0,Other,2009-09-15T04:00:00.000Z,14.0,57414.0
+219,-79.54649,43.770245,Etobicoke York,Mount Olive-Silverstone-Jamestown,2012.0,Other,2012-05-15T04:00:00.000Z,14.0,57414.0
+220,-79.542331,43.752016999999995,Etobicoke York,Mount Olive-Silverstone-Jamestown,2017.0,"Automobile, Station Wagon",2017-01-25T05:00:00.000Z,14.0,57414.0
+221,-79.59529,43.759545,Etobicoke York,Mount Olive-Silverstone-Jamestown,2010.0,"Automobile, Station Wagon",2010-03-09T05:00:00.000Z,15.0,57414.0
+222,-79.54239,43.752045,Etobicoke York,Mount Olive-Silverstone-Jamestown,2009.0,Other,2009-02-02T05:00:00.000Z,16.0,57414.0
+223,-79.57332199999999,43.764662,Etobicoke York,Mount Olive-Silverstone-Jamestown,2016.0,Motorcycle,2016-03-09T05:00:00.000Z,18.0,57414.0
+224,-79.570071,43.760417,Etobicoke York,Mount Olive-Silverstone-Jamestown,2015.0, ,2015-03-04T05:00:00.000Z,19.0,57414.0
+225,-79.58575,43.750846,Etobicoke York,Mount Olive-Silverstone-Jamestown,2018.0, ,2018-11-01T04:00:00.000Z,20.0,57414.0
+226,-79.56525699999999,43.737165999999995,Etobicoke York,Mount Olive-Silverstone-Jamestown,2016.0, ,2016-07-05T04:00:00.000Z,11.0,57414.0
+227,-79.54349,43.756345,Etobicoke York,Mount Olive-Silverstone-Jamestown,2009.0,Other,2009-10-21T04:00:00.000Z,12.0,57414.0
+228,-79.45329,43.714145,North York,Yorkdale-Glen Park,2012.0,Other,2012-11-01T04:00:00.000Z,6.0,63778.0
+229,-79.44449,43.710745,North York,Yorkdale-Glen Park,2012.0,Motorcycle,2012-09-11T04:00:00.000Z,8.0,63778.0
+230,-79.44649100000001,43.715644,North York,Yorkdale-Glen Park,2009.0,Other,2009-08-27T04:00:00.000Z,9.0,63778.0
+231,-79.39019,43.708445000000005,Toronto and East York,Mount Pleasant East,2010.0,Other,2010-01-18T05:00:00.000Z,6.0,93566.0
+232,-79.39359,43.716945,North York,Mount Pleasant East,2012.0,Other,2012-04-03T04:00:00.000Z,2.0,93566.0
+233,-79.38669,43.699245,Toronto and East York,Mount Pleasant East,2008.0,Other,2008-08-09T04:00:00.000Z,10.0,93566.0
+234,-79.450549,43.691016,Toronto and East York,Caledonia-Fairbank,2016.0, ,2016-06-22T04:00:00.000Z,6.0,66048.0
+235,-79.44849,43.691345,Toronto and East York,Caledonia-Fairbank,2010.0,Other,2010-01-20T05:00:00.000Z,7.0,66048.0
+236,-79.43934899999999,43.69797,Toronto and East York,Caledonia-Fairbank,2018.0, ,2018-07-26T04:00:00.000Z,0.0,66048.0
+237,-79.447673,43.69625,Toronto and East York,Caledonia-Fairbank,2014.0, ,2014-01-19T05:00:00.000Z,21.0,66048.0
+238,-79.44664300000001,43.686811999999996,Toronto and East York,Caledonia-Fairbank,2015.0, ,2015-06-26T04:00:00.000Z,21.0,66048.0
+239,-79.43289,43.781245,North York,Willowdale West,2010.0,Other,2010-07-31T04:00:00.000Z,7.0,56942.0
+240,-79.44666600000001,43.788577000000004,North York,Willowdale West,2014.0, ,2014-12-18T05:00:00.000Z,8.0,56942.0
+241,-79.44049,43.792445,North York,Willowdale West,2009.0,Other,2009-11-17T05:00:00.000Z,8.0,56942.0
+242,-79.41639,43.779545,North York,Willowdale West,2012.0,Other,2012-08-21T04:00:00.000Z,9.0,56942.0
+243,-79.445163,43.792533,North York,Willowdale West,2013.0, ,2013-09-16T04:00:00.000Z,1.0,56942.0
+244,-79.42009,43.797945,North York,Willowdale West,2008.0,Other,2008-07-21T04:00:00.000Z,3.0,56942.0
+245,-79.424747,43.796965,North York,Willowdale West,2013.0, ,2013-11-24T05:00:00.000Z,15.0,56942.0
+246,-79.44089100000001,43.765390999999994,North York,Willowdale West,2018.0, ,2018-02-20T05:00:00.000Z,16.0,56942.0
+247,-79.44389,43.789345000000004,North York,Willowdale West,2011.0,Other,2011-08-13T04:00:00.000Z,18.0,56942.0
+248,-79.422359,43.778242999999996,North York,Willowdale West,2016.0, ,2016-08-05T04:00:00.000Z,12.0,56942.0
+249,-79.44589,43.785945,North York,Willowdale West,2011.0,Other,2011-06-11T04:00:00.000Z,13.0,56942.0
+250,-79.519672,43.765898,Etobicoke York,Black Creek,2011.0,Other,2011-12-21T05:00:00.000Z,7.0,51999.0
+251,-79.49959100000001,43.753844,Etobicoke York,Black Creek,2013.0, ,2013-09-03T04:00:00.000Z,8.0,51999.0
+252,-79.49449,43.781545,North York,Black Creek,2009.0,"Automobile, Station Wagon",2009-10-31T04:00:00.000Z,9.0,51999.0
+253,-79.493961,43.760321000000005,Etobicoke York,Black Creek,2016.0, ,2016-01-31T05:00:00.000Z,2.0,51999.0
+254,-79.501659,43.768195,Etobicoke York,Black Creek,2017.0, ,2017-10-03T04:00:00.000Z,16.0,51999.0
+255,-79.51989,43.756945,Etobicoke York,Black Creek,2010.0,Other,2010-01-08T05:00:00.000Z,18.0,51999.0
+256,-79.518886,43.762446000000004,Etobicoke York,Black Creek,2013.0, ,2013-04-12T04:00:00.000Z,20.0,51999.0
+257,-79.49446400000001,43.781508,North York,Black Creek,2017.0, ,2017-10-31T04:00:00.000Z,22.0,51999.0
+258,-79.50360400000001,43.760237,Etobicoke York,Black Creek,2016.0, ,2016-02-13T05:00:00.000Z,10.0,51999.0
+259,-79.482974,43.754729,North York,Black Creek,2016.0, ,2016-09-16T04:00:00.000Z,12.0,51999.0
+260,-79.247051,43.719565,Scarborough,Cliffcrest,2018.0, ,2018-09-26T04:00:00.000Z,7.0,75291.0
+261,-79.24709,43.719645,Scarborough,Cliffcrest,2008.0,Other,2008-05-01T04:00:00.000Z,7.0,75291.0
+262,-79.23929,43.719145000000005,Scarborough,Cliffcrest,2010.0,"Automobile, Station Wagon",2010-12-14T05:00:00.000Z,2.0,75291.0
+263,-79.22742,43.729457000000004,Scarborough,Cliffcrest,2015.0,"Automobile, Station Wagon",2015-12-03T05:00:00.000Z,20.0,75291.0
+264,-79.243045,43.720442,Scarborough,Cliffcrest,2017.0,"Automobile, Station Wagon",2017-08-26T04:00:00.000Z,10.0,75291.0
+265,-79.397853,43.652507,Toronto and East York,Kensington-Chinatown,2013.0,Bicycle,2013-10-16T04:00:00.000Z,7.0,44216.0
+266,-79.40369,43.647745,Toronto and East York,Kensington-Chinatown,2012.0,Other,2012-07-09T04:00:00.000Z,9.0,44216.0
+267,-79.398158,43.658187,Toronto and East York,Kensington-Chinatown,2018.0, ,2018-03-15T04:00:00.000Z,2.0,44216.0
+268,-79.401134,43.652262,Toronto and East York,Kensington-Chinatown,2014.0, ,2014-05-10T04:00:00.000Z,2.0,44216.0
+269,-79.39986,43.652541,Toronto and East York,Kensington-Chinatown,2014.0, ,2014-04-23T04:00:00.000Z,17.0,44216.0
+270,-79.397403,43.651315999999994,Toronto and East York,Kensington-Chinatown,2017.0, ,2017-04-14T04:00:00.000Z,18.0,44216.0
+271,-79.397586,43.651843,Toronto and East York,Kensington-Chinatown,2013.0, ,2013-06-06T04:00:00.000Z,23.0,44216.0
+272,-79.40389,43.647245,Toronto and East York,Kensington-Chinatown,2011.0,Other,2011-01-11T05:00:00.000Z,10.0,44216.0
+273,-79.39729,43.650945,Toronto and East York,Kensington-Chinatown,2010.0,Other,2010-09-14T04:00:00.000Z,10.0,44216.0
+274,-79.39919,43.655845,Toronto and East York,Kensington-Chinatown,2009.0,Bicycle,2009-09-01T04:00:00.000Z,12.0,44216.0
+275,-79.437747,43.752669,North York,Lansing-Westgate,2016.0, ,2016-12-06T05:00:00.000Z,7.0,80384.0
+276,-79.37099,43.658221000000005,Toronto and East York,Moss Park/Regent Park,2017.0, ,2017-07-31T04:00:00.000Z,7.0,49252.0
+277,-79.37259,43.663245,Toronto and East York,Moss Park/Regent Park,2012.0,Other,2012-08-25T04:00:00.000Z,8.0,49252.0
+278,-79.370799,43.657740000000004,Toronto and East York,Moss Park/Regent Park,2015.0, ,2015-02-18T05:00:00.000Z,1.0,49252.0
+279,-79.36225400000001,43.656085,Toronto and East York,Moss Park/Regent Park,2014.0, ,2014-08-18T04:00:00.000Z,1.0,49252.0
+280,-79.36319,43.652745,Toronto and East York,Moss Park/Regent Park,2010.0,"Automobile, Station Wagon",2010-01-10T05:00:00.000Z,3.0,49252.0
+281,-79.370532,43.658351,Toronto and East York,Moss Park/Regent Park,2017.0, ,2017-08-15T04:00:00.000Z,4.0,49252.0
+282,-79.37324100000001,43.65372,Toronto and East York,Moss Park/Regent Park,2016.0, ,2016-03-04T05:00:00.000Z,14.0,49252.0
+283,-79.364993,43.656932,Toronto and East York,Moss Park/Regent Park,2016.0, ,2016-07-28T04:00:00.000Z,14.0,49252.0
+284,-79.369693,43.663325,Toronto and East York,Moss Park/Regent Park,2018.0, ,2018-09-21T04:00:00.000Z,16.0,49252.0
+285,-79.365749,43.655328999999995,Toronto and East York,Moss Park/Regent Park,2015.0, ,2015-09-22T04:00:00.000Z,17.0,49252.0
+286,-79.373676,43.657778,Toronto and East York,Moss Park/Regent Park,2016.0, ,2016-11-24T05:00:00.000Z,20.0,49252.0
+287,-79.367008,43.651472999999996,Toronto and East York,Moss Park/Regent Park,2016.0, ,2016-03-23T04:00:00.000Z,20.0,49252.0
+288,-79.166332,43.772868,Scarborough,West Hill,2013.0, ,2013-11-08T05:00:00.000Z,7.0,56051.0
+289,-79.19949,43.765445,Scarborough,West Hill,2011.0,"Automobile, Station Wagon",2011-07-24T04:00:00.000Z,13.0,56051.0
+290,-79.17369000000001,43.776445,Scarborough,West Hill,2012.0,Other,2012-12-18T05:00:00.000Z,21.0,56051.0
+291,-79.189586,43.767646,Scarborough,West Hill,2012.0,Bicycle,2012-07-27T04:00:00.000Z,21.0,56051.0
+292,-79.509113,43.65729,Etobicoke York,Kingsway South,2014.0,"Automobile, Station Wagon",2014-03-06T05:00:00.000Z,7.0,151552.0
+293,-79.481792,43.623171,Etobicoke York,Mimico,2015.0, ,2015-09-03T04:00:00.000Z,7.0,67525.0
+294,-79.519672,43.604773,Etobicoke York,Mimico,2017.0,Pick Up Truck,2017-02-18T05:00:00.000Z,0.0,67525.0
+295,-79.499957,43.623107,Etobicoke York,Mimico,2018.0, ,2018-03-21T04:00:00.000Z,3.0,67525.0
+296,-79.500606,43.621562,Etobicoke York,Mimico,2015.0, ,2015-02-13T05:00:00.000Z,15.0,67525.0
+297,-79.29219,43.782345,Scarborough,Tam O'Shanter-Sullivan,2012.0,Other,2012-12-20T05:00:00.000Z,7.0,58246.0
+298,-79.304355,43.77949,Scarborough,Tam O'Shanter-Sullivan,2016.0, ,2016-11-14T05:00:00.000Z,8.0,58246.0
+299,-79.31548599999999,43.777014,Scarborough,Tam O'Shanter-Sullivan,2014.0, ,2014-12-28T05:00:00.000Z,18.0,58246.0
+300,-79.320316,43.775892999999996,Scarborough,Tam O'Shanter-Sullivan,2016.0, ,2016-01-17T05:00:00.000Z,19.0,58246.0
+301,-79.29249899999999,43.782229,Scarborough,Tam O'Shanter-Sullivan,2018.0, ,2018-09-26T04:00:00.000Z,20.0,58246.0
+302,-79.322238,43.775355,Scarborough,Tam O'Shanter-Sullivan,2017.0,Passenger Van,2017-11-24T05:00:00.000Z,11.0,58246.0
+303,-79.532726,43.696154,Etobicoke York,Humber Heights-Westmount,2013.0,"Automobile, Station Wagon",2013-08-19T04:00:00.000Z,7.0,68996.0
+304,-79.51249,43.685545,Etobicoke York,Humber Heights-Westmount,2008.0,"Automobile, Station Wagon",2008-03-09T05:00:00.000Z,9.0,68996.0
+305,-79.51949,43.694745000000005,Etobicoke York,Humber Heights-Westmount,2008.0,"Automobile, Station Wagon",2008-07-12T04:00:00.000Z,0.0,68996.0
+306,-79.520099,43.695372,Etobicoke York,Humber Heights-Westmount,2018.0,Motorcycle,2018-10-05T04:00:00.000Z,18.0,68996.0
+307,-79.53269,43.696145,Etobicoke York,Humber Heights-Westmount,2011.0,Other,2011-07-16T04:00:00.000Z,12.0,68996.0
+308,-79.334277,43.666098,Toronto and East York,Riverdale,2018.0,Bicycle,2018-05-16T04:00:00.000Z,8.0,77819.0
+309,-79.357845,43.675115999999996,Toronto and East York,Riverdale,2014.0,Motorcycle,2014-06-16T04:00:00.000Z,8.0,77819.0
+310,-79.34849100000001,43.666346000000004,Toronto and East York,Riverdale,2009.0,Other,2009-03-13T04:00:00.000Z,9.0,77819.0
+311,-79.35139000000001,43.658545000000004,Toronto and East York,Riverdale,2010.0,Other,2010-01-24T05:00:00.000Z,0.0,77819.0
+312,-79.352985,43.669097,Toronto and East York,Riverdale,2015.0,"Automobile, Station Wagon",2015-01-11T05:00:00.000Z,3.0,77819.0
+313,-79.35879,43.672745,Toronto and East York,Riverdale,2010.0,Truck - Open,2010-03-12T05:00:00.000Z,5.0,77819.0
+314,-79.34238,43.664443,Toronto and East York,Riverdale,2015.0, ,2015-04-20T04:00:00.000Z,14.0,77819.0
+315,-79.35589,43.665145,Toronto and East York,Riverdale,2012.0,Motorcycle,2012-04-20T04:00:00.000Z,14.0,77819.0
+316,-79.34917800000001,43.641405999999996,Toronto and East York,Riverdale,2016.0,"Automobile, Station Wagon",2016-10-27T04:00:00.000Z,15.0,77819.0
+317,-79.352763,43.665820000000004,Toronto and East York,Riverdale,2015.0, ,2015-04-04T04:00:00.000Z,20.0,77819.0
+318,-79.35094000000001,43.658515,Toronto and East York,Riverdale,2018.0,Bicycle,2018-10-08T04:00:00.000Z,20.0,77819.0
+319,-79.306186,43.664344,Toronto and East York,Riverdale,2010.0,Other,2010-08-20T04:00:00.000Z,22.0,77819.0
+320,-79.342792,43.667643,Toronto and East York,Riverdale,2013.0, ,2013-10-01T04:00:00.000Z,10.0,77819.0
+321,-79.34989,43.648545,Toronto and East York,Riverdale,2010.0,"Automobile, Station Wagon",2010-02-28T05:00:00.000Z,23.0,77819.0
+322,-79.351352,43.662455,Toronto and East York,Riverdale,2013.0, ,2013-09-26T04:00:00.000Z,10.0,77819.0
+323,-79.35889,43.676145,Toronto and East York,Riverdale,2010.0,Other,2010-01-22T05:00:00.000Z,11.0,77819.0
+324,-79.49899,43.697345,Etobicoke York,Brookhaven-Amesbury,2008.0,Bicycle,2008-09-10T04:00:00.000Z,8.0,52988.0
+325,-79.50359,43.702145,Etobicoke York,Brookhaven-Amesbury,2011.0,Other,2011-12-01T05:00:00.000Z,1.0,52988.0
+326,-79.503825,43.702868,Etobicoke York,Brookhaven-Amesbury,2015.0, ,2015-11-11T05:00:00.000Z,20.0,52988.0
+327,-79.50344399999999,43.701564000000005,Etobicoke York,Brookhaven-Amesbury,2015.0, ,2015-12-15T05:00:00.000Z,11.0,52988.0
+328,-79.211902,43.777968,Scarborough,Morningside,2014.0,"Automobile, Station Wagon",2014-11-04T05:00:00.000Z,8.0,52721.0
+329,-79.17908,43.793753,Scarborough,Morningside,2017.0, ,2017-04-21T04:00:00.000Z,15.0,52721.0
+330,-79.21259,43.790545,Scarborough,Morningside,2012.0,"Automobile, Station Wagon",2012-07-30T04:00:00.000Z,16.0,52721.0
+331,-79.217136,43.779742,Scarborough,Morningside,2014.0,"Automobile, Station Wagon",2014-11-24T05:00:00.000Z,18.0,52721.0
+332,-79.202304,43.783128999999995,Scarborough,Morningside,2018.0, ,2018-11-12T05:00:00.000Z,18.0,52721.0
+333,-79.20709000000001,43.767545,Scarborough,Morningside,2010.0,Motorcycle,2010-05-25T04:00:00.000Z,10.0,52721.0
+334,-79.15869,43.788645,Scarborough,Flemingdon Park,2008.0,"Automobile, Station Wagon",2008-10-31T04:00:00.000Z,8.0,48917.0
+335,-79.16299000000001,43.786017,Scarborough,Flemingdon Park,2018.0, ,2018-08-09T04:00:00.000Z,0.0,48917.0
+336,-79.325488,43.714343,North York,Flemingdon Park,2012.0,"Automobile, Station Wagon",2012-10-20T04:00:00.000Z,5.0,48917.0
+337,-79.32799,43.718745,North York,Flemingdon Park,2009.0,Other,2009-07-06T04:00:00.000Z,20.0,48917.0
+338,-79.32799,43.718745,North York,Flemingdon Park,2009.0,"Automobile, Station Wagon",2009-07-06T04:00:00.000Z,20.0,48917.0
+339,-79.172488,43.782145,Scarborough,Flemingdon Park,2013.0, ,2013-07-11T04:00:00.000Z,22.0,48917.0
+340,-79.15599399999999,43.792666,Scarborough,Flemingdon Park,2015.0,Motorcycle,2015-07-26T04:00:00.000Z,13.0,48917.0
+341,-79.45589,43.662445,Toronto and East York,High Park North,2010.0,Other,2010-11-17T05:00:00.000Z,8.0,73547.0
+342,-79.452602,43.656863,Toronto and East York,High Park North,2014.0, ,2014-07-10T04:00:00.000Z,19.0,73547.0
+343,-79.45298299999999,43.658259,Scarborough,High Park North,2014.0, ,2014-11-20T05:00:00.000Z,12.0,73547.0
+344,-79.389987,43.658744,Toronto and East York,Bay Street Corridor,2010.0,Other,2010-06-06T04:00:00.000Z,8.0,48737.0
+345,-79.38629,43.650045,Toronto and East York,Bay Street Corridor,2012.0,Bicycle,2012-11-07T05:00:00.000Z,14.0,48737.0
+346,-79.382388,43.659644,Toronto and East York,Bay Street Corridor,2013.0,Motorcycle,2013-05-04T04:00:00.000Z,14.0,48737.0
+347,-79.393192,43.668845000000005,Toronto and East York,Bay Street Corridor,2009.0, ,2009-08-31T04:00:00.000Z,21.0,48737.0
+348,-79.380771,43.649821,Toronto and East York,Bay Street Corridor,2017.0, ,2017-02-23T05:00:00.000Z,10.0,48737.0
+349,-79.382091,43.649542,Toronto and East York,Bay Street Corridor,2018.0, ,2018-01-05T05:00:00.000Z,11.0,48737.0
+350,-79.340846,43.727645,North York,Banbury-Don Mills/York Mills,2015.0, ,2015-05-22T04:00:00.000Z,8.0,90620.0
+351,-79.397746,43.745096999999994,North York,Banbury-Don Mills/York Mills,2017.0,"Automobile, Station Wagon",2017-03-19T04:00:00.000Z,2.0,90620.0
+352,-79.33229399999999,43.738375,North York,Banbury-Don Mills/York Mills,2016.0,"Automobile, Station Wagon",2016-05-31T04:00:00.000Z,14.0,90620.0
+353,-79.34499,43.736845,North York,Banbury-Don Mills/York Mills,2012.0,Motorcycle,2012-06-08T04:00:00.000Z,15.0,90620.0
+354,-79.350383,43.718589,North York,Banbury-Don Mills/York Mills,2018.0,Passenger Van,2018-08-16T04:00:00.000Z,15.0,90620.0
+355,-79.350871,43.75495,North York,Banbury-Don Mills/York Mills,2014.0,"Automobile, Station Wagon",2014-02-26T05:00:00.000Z,16.0,90620.0
+356,-79.34798,43.755549,North York,Banbury-Don Mills/York Mills,2017.0, ,2017-10-04T04:00:00.000Z,23.0,90620.0
+357,-79.38129,43.732985,North York,Banbury-Don Mills/York Mills,2015.0,"Automobile, Station Wagon",2015-08-16T04:00:00.000Z,12.0,90620.0
+358,-79.40588699999999,43.740344,North York,Banbury-Don Mills/York Mills,2013.0, ,2013-05-16T04:00:00.000Z,12.0,90620.0
+359,-79.382312,43.679423,Toronto and East York,Rosedale-Moore Park,2015.0,Bicycle,2015-05-19T04:00:00.000Z,8.0,106194.0
+360,-79.36789300000001,43.677146,Toronto and East York,Rosedale-Moore Park,2008.0,Motorcycle,2008-05-24T04:00:00.000Z,0.0,106194.0
+361,-79.38240400000001,43.680724,Toronto and East York,Rosedale-Moore Park,2016.0, ,2016-09-05T04:00:00.000Z,2.0,106194.0
+362,-79.37959000000001,43.672345,Toronto and East York,Rosedale-Moore Park,2008.0,Other,2008-03-15T04:00:00.000Z,14.0,106194.0
+363,-79.390689,43.679843,Toronto and East York,Rosedale-Moore Park,2013.0, ,2013-01-15T05:00:00.000Z,14.0,106194.0
+364,-79.383662,43.68439,Toronto and East York,Rosedale-Moore Park,2018.0,Motorcycle,2018-03-28T04:00:00.000Z,17.0,106194.0
+365,-79.36806,43.680995,Toronto and East York,Rosedale-Moore Park,2017.0,Motorcycle,2017-07-08T04:00:00.000Z,20.0,106194.0
+366,-79.38985799999999,43.679961,Toronto and East York,Rosedale-Moore Park,2017.0, ,2017-12-03T05:00:00.000Z,12.0,106194.0
+367,-79.36889000000001,43.678245000000004,Toronto and East York,Rosedale-Moore Park,2008.0,Motorcycle,2008-10-18T04:00:00.000Z,13.0,106194.0
+368,-79.424945,43.699484999999996,Toronto and East York,Forest Hill South,2015.0,"Automobile, Station Wagon",2015-11-14T05:00:00.000Z,8.0,119484.0
+369,-79.42554799999999,43.700984000000005,Toronto and East York,Forest Hill South,2015.0, ,2015-11-27T05:00:00.000Z,5.0,119484.0
+370,-79.411601,43.703868,Toronto and East York,Forest Hill South,2018.0, ,2018-06-23T04:00:00.000Z,12.0,119484.0
+371,-79.56239000000001,43.627345,Etobicoke York,Markland Wood,2011.0,Other,2011-02-10T05:00:00.000Z,8.0,72429.0
+372,-79.56721800000001,43.634440000000005,Etobicoke York,Markland Wood,2013.0,"Automobile, Station Wagon",2013-11-30T05:00:00.000Z,15.0,72429.0
+373,-79.570766,43.633544,Etobicoke York,Markland Wood,2013.0, ,2013-12-03T05:00:00.000Z,21.0,72429.0
+374,-79.560214,43.621218,Etobicoke York,Islington-City Centre West,2017.0,"Automobile, Station Wagon",2017-11-02T04:00:00.000Z,8.0,69274.0
+375,-79.54007299999999,43.636099,Etobicoke York,Islington-City Centre West,2016.0, ,2016-01-28T05:00:00.000Z,9.0,69274.0
+376,-79.56166400000001,43.645896,Etobicoke York,Islington-City Centre West,2015.0,"Automobile, Station Wagon",2015-09-26T04:00:00.000Z,0.0,69274.0
+377,-79.528835,43.626292,Etobicoke York,Islington-City Centre West,2015.0,Motorcycle,2015-07-06T04:00:00.000Z,0.0,69274.0
+378,-79.540759,43.650695,Etobicoke York,Islington-City Centre West,2015.0, ,2015-10-03T04:00:00.000Z,3.0,69274.0
+379,-79.52879,43.626245000000004,Etobicoke York,Islington-City Centre West,2013.0,Motorcycle,2013-07-22T04:00:00.000Z,15.0,69274.0
+380,-79.564426,43.618773,Etobicoke York,Islington-City Centre West,2016.0,"Automobile, Station Wagon",2016-05-28T04:00:00.000Z,18.0,69274.0
+381,-79.52977299999999,43.647521000000005,Etobicoke York,Islington-City Centre West,2018.0, ,2018-12-26T05:00:00.000Z,18.0,69274.0
+382,-79.52429000000001,43.621545000000005,Etobicoke York,Islington-City Centre West,2011.0,Other,2011-08-31T04:00:00.000Z,19.0,69274.0
+383,-79.520046,43.633887,Etobicoke York,Islington-City Centre West,2018.0,Motorcycle,2018-07-29T04:00:00.000Z,10.0,69274.0
+384,-79.54319,43.621845,Etobicoke York,Islington-City Centre West,2011.0,"Automobile, Station Wagon",2011-03-28T04:00:00.000Z,11.0,69274.0
+385,-79.411693,43.712046,North York,Lawrence Park South,2013.0,"Automobile, Station Wagon",2013-04-16T04:00:00.000Z,9.0,151885.0
+386,-79.402156,43.725032,North York,Lawrence Park South,2018.0, ,2018-05-15T04:00:00.000Z,9.0,151885.0
+387,-79.39442,43.725703,North York,Lawrence Park South,2015.0, ,2015-07-14T04:00:00.000Z,21.0,151885.0
+388,-79.41029,43.704245,Toronto and East York,Lawrence Park South,2008.0,Bicycle,2008-05-22T04:00:00.000Z,13.0,151885.0
+389,-79.352275,43.793151,North York,Don Valley Village,2016.0, ,2016-03-29T04:00:00.000Z,9.0,65714.0
+390,-79.352275,43.793151,North York,Don Valley Village,2016.0, ,2016-08-19T04:00:00.000Z,9.0,65714.0
+391,-79.354724,43.792651,North York,Don Valley Village,2016.0, ,2016-03-14T04:00:00.000Z,9.0,65714.0
+392,-79.347888,43.774943,North York,Don Valley Village,2013.0, ,2013-07-28T04:00:00.000Z,0.0,65714.0
+393,-79.34909,43.782745,North York,Don Valley Village,2008.0,Other,2008-01-31T05:00:00.000Z,14.0,65714.0
+394,-79.35469,43.792645,North York,Don Valley Village,2009.0,Other,2009-12-08T05:00:00.000Z,14.0,65714.0
+395,-79.366107,43.781909000000006,North York,Don Valley Village,2017.0,Motorcycle,2017-04-26T04:00:00.000Z,18.0,65714.0
+396,-79.35519000000001,43.790045,North York,Don Valley Village,2012.0,"Automobile, Station Wagon",2012-01-20T05:00:00.000Z,22.0,65714.0
+397,-79.33849000000001,43.693845,Toronto and East York,Old East York,2011.0,Bicycle,2011-08-05T04:00:00.000Z,9.0,77824.0
+398,-79.343501,43.692526,Toronto and East York,Old East York,2015.0, ,2015-03-20T04:00:00.000Z,0.0,77824.0
+399,-79.349437,43.697508,Toronto and East York,Old East York,2014.0,"Automobile, Station Wagon",2014-11-24T05:00:00.000Z,3.0,77824.0
+400,-79.42094,43.708262,North York,Forest Hill North,2016.0,"Automobile, Station Wagon",2016-04-08T04:00:00.000Z,9.0,70920.0
+401,-79.42669000000001,43.706645,North York,Forest Hill North,2011.0,Other,2011-01-25T05:00:00.000Z,20.0,70920.0
+402,-79.54669,43.697045,Etobicoke York,Kingsview Village-The Westway,2012.0,Other,2012-01-26T05:00:00.000Z,9.0,60824.0
+403,-79.54289,43.688645,Etobicoke York,Kingsview Village-The Westway,2010.0,"Automobile, Station Wagon",2010-06-12T04:00:00.000Z,9.0,60824.0
+404,-79.53989,43.698545,Etobicoke York,Kingsview Village-The Westway,2011.0,Motorcycle,2011-08-07T04:00:00.000Z,11.0,60824.0
+405,-79.49949000000001,43.666945,Etobicoke York,Rockcliffe-Smythe,2008.0,Other,2008-06-18T04:00:00.000Z,9.0,54908.0
+406,-79.49319,43.670245,Etobicoke York,Rockcliffe-Smythe,2012.0,Motorcycle,2012-10-05T04:00:00.000Z,14.0,54908.0
+407,-79.48479,43.680644,Etobicoke York,Rockcliffe-Smythe,2013.0, ,2013-07-29T04:00:00.000Z,16.0,54908.0
+408,-79.489391,43.676943,Etobicoke York,Rockcliffe-Smythe,2012.0,Motorcycle,2012-08-23T04:00:00.000Z,16.0,54908.0
+409,-79.494518,43.676146,Etobicoke York,Rockcliffe-Smythe,2017.0,Bicycle,2017-06-30T04:00:00.000Z,13.0,54908.0
+410,-79.254787,43.706175,Scarborough,Birchcliffe-Cliffside,2018.0, ,2018-08-06T04:00:00.000Z,9.0,73216.0
+411,-79.251239,43.701213,Scarborough,Birchcliffe-Cliffside,2017.0, ,2017-04-06T04:00:00.000Z,14.0,73216.0
+412,-79.28029000000001,43.684645,Scarborough,Birchcliffe-Cliffside,2009.0,Other,2009-08-07T04:00:00.000Z,14.0,73216.0
+413,-79.27088499999999,43.687686,Scarborough,Birchcliffe-Cliffside,2017.0, ,2017-12-21T05:00:00.000Z,15.0,73216.0
+414,-79.25159000000001,43.703646,Scarborough,Birchcliffe-Cliffside,2013.0, ,2013-03-07T05:00:00.000Z,15.0,73216.0
+415,-79.280292,43.684645,Scarborough,Birchcliffe-Cliffside,2013.0, ,2013-07-18T04:00:00.000Z,18.0,73216.0
+416,-79.251254,43.706267,Scarborough,Birchcliffe-Cliffside,2017.0, ,2017-06-03T04:00:00.000Z,11.0,73216.0
+417,-79.410945,43.704074,Toronto and East York,Yonge-Eglinton,2015.0, ,2015-11-26T05:00:00.000Z,9.0,80896.0
+418,-79.40326999999999,43.707171,North York,Yonge-Eglinton,2017.0, ,2017-11-28T05:00:00.000Z,12.0,80896.0
+419,-79.40049,43.704245,Toronto and East York,Yonge-Eglinton,2012.0,Other,2012-05-11T04:00:00.000Z,12.0,80896.0
+420,-79.21779000000001,43.738145,Scarborough,Scarborough Village,2009.0,"Automobile, Station Wagon",2009-12-23T05:00:00.000Z,9.0,49568.0
+421,-79.219852,43.742971999999995,Scarborough,Scarborough Village,2014.0, ,2014-09-01T04:00:00.000Z,1.0,49568.0
+422,-79.21059,43.737845,Scarborough,Scarborough Village,2009.0,Other,2009-03-08T05:00:00.000Z,3.0,49568.0
+423,-79.219142,43.743716,Scarborough,Scarborough Village,2015.0, ,2015-11-18T05:00:00.000Z,17.0,49568.0
+424,-79.222949,43.742284999999995,Scarborough,Scarborough Village,2016.0, ,2016-04-25T04:00:00.000Z,21.0,49568.0
+425,-79.467212,43.751868,North York,Downsview-Roding-CFB,2013.0,Bicycle,2013-11-20T05:00:00.000Z,9.0,56053.0
+426,-79.52109,43.718145,Etobicoke York,Downsview-Roding-CFB,2008.0,"Automobile, Station Wagon",2008-09-28T04:00:00.000Z,5.0,56053.0
+427,-79.511264,43.731806,North York,Downsview-Roding-CFB,2016.0,Motorcycle,2016-05-17T04:00:00.000Z,14.0,56053.0
+428,-79.508113,43.719008,North York,Downsview-Roding-CFB,2018.0, ,2018-04-13T04:00:00.000Z,15.0,56053.0
+429,-79.488223,43.727903999999995,North York,Downsview-Roding-CFB,2018.0, ,2018-01-15T05:00:00.000Z,15.0,56053.0
+430,-79.499889,43.722663,North York,Downsview-Roding-CFB,2015.0,"Automobile, Station Wagon",2015-04-13T04:00:00.000Z,17.0,56053.0
+431,-79.51839,43.718745,Etobicoke York,Downsview-Roding-CFB,2008.0,Other,2008-06-24T04:00:00.000Z,22.0,56053.0
+432,-79.471462,43.72959,North York,Downsview-Roding-CFB,2015.0, ,2015-09-30T04:00:00.000Z,23.0,56053.0
+433,-79.46599,43.734645,North York,Downsview-Roding-CFB,2008.0,Other,2008-08-26T04:00:00.000Z,11.0,56053.0
+434,-79.50859,43.720945,North York,Downsview-Roding-CFB,2009.0,Other,2009-09-29T04:00:00.000Z,11.0,56053.0
+435,-79.49109200000001,43.724532,North York,Downsview-Roding-CFB,2018.0, ,2018-03-29T04:00:00.000Z,12.0,56053.0
+436,-79.39149,43.782045000000004,North York,Bayview Village,2012.0,Other,2012-09-10T04:00:00.000Z,9.0,67355.0
+437,-79.390872,43.779303000000006,North York,Bayview Village,2017.0, ,2017-05-31T04:00:00.000Z,9.0,67355.0
+438,-79.38309,43.767745,North York,Bayview Village,2009.0,Other,2009-01-06T05:00:00.000Z,13.0,67355.0
+439,-79.37889,43.779645,North York,Bayview Village,2012.0,Other,2012-01-12T05:00:00.000Z,21.0,67355.0
+440,-79.272052,43.742171,Scarborough,Ionview,2014.0,"Automobile, Station Wagon",2014-12-07T05:00:00.000Z,9.0,53177.0
+441,-79.267787,43.731745000000004,Scarborough,Ionview,2013.0, ,2013-10-20T04:00:00.000Z,0.0,53177.0
+442,-79.27509599999999,43.730475,Scarborough,Ionview,2018.0, ,2018-01-09T05:00:00.000Z,18.0,53177.0
+443,-79.26859,43.733845,Scarborough,Ionview,2012.0,Other,2012-12-20T05:00:00.000Z,20.0,53177.0
+444,-79.413997,43.789603,North York,Willowdale East,2016.0, ,2016-02-10T05:00:00.000Z,9.0,61725.0
+445,-79.413097,43.777663000000004,North York,Willowdale East,2018.0,"Automobile, Station Wagon",2018-07-25T04:00:00.000Z,0.0,61725.0
+446,-79.406253,43.762419,North York,Willowdale East,2018.0, ,2018-10-08T04:00:00.000Z,1.0,61725.0
+447,-79.41779,43.788945,North York,Willowdale East,2011.0,Other,2011-06-17T04:00:00.000Z,14.0,61725.0
+448,-79.41668299999999,43.784380999999996,North York,Willowdale East,2014.0, ,2014-08-07T04:00:00.000Z,16.0,61725.0
+449,-79.4192,43.794638,North York,Willowdale East,2015.0, ,2015-03-19T04:00:00.000Z,16.0,61725.0
+450,-79.415706,43.795355,North York,Willowdale East,2013.0, ,2013-12-04T05:00:00.000Z,18.0,61725.0
+451,-79.40909,43.765745,North York,Willowdale East,2010.0,Other,2010-10-07T04:00:00.000Z,20.0,61725.0
+452,-79.4099,43.788653000000004,North York,Willowdale East,2016.0,"Automobile, Station Wagon",2016-04-09T04:00:00.000Z,21.0,61725.0
+453,-79.40669,43.780545000000004,North York,Willowdale East,2013.0,Motorcycle,2013-08-15T04:00:00.000Z,22.0,61725.0
+454,-79.41639,43.783245,North York,Willowdale East,2008.0,Other,2008-10-02T04:00:00.000Z,10.0,61725.0
+455,-79.409702,43.781046999999994,North York,Willowdale East,2014.0,"Automobile, Station Wagon",2014-07-28T04:00:00.000Z,12.0,61725.0
+456,-79.397456,43.763236,North York,Willowdale East,2014.0, ,2014-06-03T04:00:00.000Z,12.0,61725.0
+457,-79.412891,43.769263,North York,Willowdale East,2015.0, ,2015-06-11T04:00:00.000Z,13.0,61725.0
+458,-79.30459,43.743245,Scarborough,Wexford/Maryvale,2010.0,"Automobile, Station Wagon",2010-02-15T05:00:00.000Z,0.0,62837.0
+459,-79.290637,43.735335,Scarborough,Wexford/Maryvale,2014.0,Bicycle,2014-10-09T04:00:00.000Z,14.0,62837.0
+460,-79.30449,43.760345,Scarborough,Wexford/Maryvale,2009.0,"Automobile, Station Wagon",2009-09-19T04:00:00.000Z,14.0,62837.0
+461,-79.29229000000001,43.767645,Scarborough,Wexford/Maryvale,2009.0,Other,2009-11-12T05:00:00.000Z,17.0,62837.0
+462,-79.30729000000001,43.742645,Scarborough,Wexford/Maryvale,2011.0,Other,2011-12-02T05:00:00.000Z,18.0,62837.0
+463,-79.303104,43.725833,Scarborough,Wexford/Maryvale,2014.0, ,2014-10-16T04:00:00.000Z,19.0,62837.0
+464,-79.30559000000001,43.731845,Scarborough,Wexford/Maryvale,2009.0,Other,2009-09-11T04:00:00.000Z,20.0,62837.0
+465,-79.30125699999999,43.763490999999995,Scarborough,Wexford/Maryvale,2017.0, ,2017-09-27T04:00:00.000Z,21.0,62837.0
+466,-79.30125699999999,43.763490999999995,Scarborough,Wexford/Maryvale,2017.0, ,2017-09-27T04:00:00.000Z,21.0,62837.0
+467,-79.292102,43.738906,Scarborough,Wexford/Maryvale,2017.0, ,2017-11-10T05:00:00.000Z,22.0,62837.0
+468,-79.312076,43.748763000000004,Scarborough,Wexford/Maryvale,2017.0,"Automobile, Station Wagon",2017-08-24T04:00:00.000Z,23.0,62837.0
+469,-79.311122,43.758727,Scarborough,Wexford/Maryvale,2017.0,"Automobile, Station Wagon",2017-05-16T04:00:00.000Z,11.0,62837.0
+470,-79.247493,43.755103000000005,Scarborough,Bendale,2016.0, ,2016-06-15T04:00:00.000Z,0.0,60292.0
+471,-79.244487,43.748545,Scarborough,Bendale,2013.0,Motorcycle,2013-08-30T04:00:00.000Z,15.0,60292.0
+472,-79.254108,43.750491,Scarborough,Bendale,2016.0, ,2016-11-10T05:00:00.000Z,17.0,60292.0
+473,-79.267612,43.758383,Scarborough,Bendale,2018.0, ,2018-12-04T05:00:00.000Z,19.0,60292.0
+474,-79.271098,43.767913,Scarborough,Bendale,2015.0, ,2015-09-20T04:00:00.000Z,20.0,60292.0
+475,-79.245387,43.755545,Scarborough,Bendale,2013.0, ,2013-07-05T04:00:00.000Z,22.0,60292.0
+476,-79.24839,43.763845,Scarborough,Bendale,2010.0,"Automobile, Station Wagon",2010-12-18T05:00:00.000Z,22.0,60292.0
+477,-79.245418,43.755538,Scarborough,Bendale,2015.0, ,2015-06-02T04:00:00.000Z,12.0,60292.0
+478,-79.542079,43.592673,Etobicoke York,Long Branch,2017.0,Delivery Van,2017-01-21T05:00:00.000Z,0.0,61536.0
+479,-79.54156,43.593039000000005,Etobicoke York,Long Branch,2016.0,"Automobile, Station Wagon",2016-01-08T05:00:00.000Z,5.0,61536.0
+480,-79.525653,43.599353,Etobicoke York,Long Branch,2018.0, ,2018-09-05T04:00:00.000Z,14.0,61536.0
+481,-79.53399,43.594345000000004,Etobicoke York,Long Branch,2008.0,Other,2008-06-11T04:00:00.000Z,20.0,61536.0
+482,-79.20591999999999,43.749583,Scarborough,Guildwood,2017.0, ,2017-12-17T05:00:00.000Z,0.0,87538.0
+483,-79.207637,43.747851000000004,Scarborough,Guildwood,2016.0, ,2016-07-29T04:00:00.000Z,18.0,87538.0
+484,-79.235263,43.757712,Scarborough,Woburn,2015.0, ,2015-08-16T04:00:00.000Z,0.0,58921.0
+485,-79.22939000000001,43.756845,Scarborough,Woburn,2010.0,Other,2010-07-18T04:00:00.000Z,1.0,58921.0
+486,-79.23769,43.768945,Scarborough,Woburn,2009.0,Other,2009-02-13T05:00:00.000Z,1.0,58921.0
+487,-79.23759,43.769045,Scarborough,Woburn,2010.0,"Automobile, Station Wagon",2010-12-05T05:00:00.000Z,4.0,58921.0
+488,-79.22932,43.756827,Scarborough,Woburn,2018.0, ,2018-03-02T05:00:00.000Z,19.0,58921.0
+489,-79.239131,43.767378,Scarborough,Woburn,2018.0,Motorcycle,2018-08-10T04:00:00.000Z,20.0,58921.0
+490,-79.215762,43.760802000000005,Scarborough,Woburn,2017.0, ,2017-07-22T04:00:00.000Z,23.0,58921.0
+491,-79.36584,43.671626,Toronto and East York,Cabbagetown-South St.James Town,2015.0,Motorcycle,2015-05-07T04:00:00.000Z,1.0,61184.0
+492,-79.360187,43.670146,Toronto and East York,Cabbagetown-South St.James Town,2013.0,Motorcycle,2013-09-07T04:00:00.000Z,2.0,61184.0
+493,-79.37829,43.666245,Toronto and East York,Cabbagetown-South St.James Town,2009.0,Other,2009-04-03T04:00:00.000Z,14.0,61184.0
+494,-79.36929,43.672945,Toronto and East York,Cabbagetown-South St.James Town,2009.0,Other,2009-12-17T05:00:00.000Z,19.0,61184.0
+495,-79.370654,43.671935,Toronto and East York,Cabbagetown-South St.James Town,2016.0, ,2016-11-28T05:00:00.000Z,21.0,61184.0
+496,-79.361987,43.692008,Toronto and East York,Leaside-Bennington,2018.0,"Automobile, Station Wagon",2018-01-01T05:00:00.000Z,1.0,126930.0
+497,-79.377147,43.711028000000006,North York,Leaside-Bennington,2016.0, ,2016-01-15T05:00:00.000Z,14.0,126930.0
+498,-79.368121,43.704775,North York,Leaside-Bennington,2014.0, ,2014-07-16T04:00:00.000Z,16.0,126930.0
+499,-79.372058,43.712084000000004,North York,Leaside-Bennington,2016.0, ,2016-10-20T04:00:00.000Z,19.0,126930.0
+500,-79.250186,43.741065,Scarborough,Eglinton East,2017.0,"Automobile, Station Wagon",2017-02-02T05:00:00.000Z,2.0,53081.0
+501,-79.24619,43.737045,Scarborough,Eglinton East,2009.0,Other,2009-01-01T05:00:00.000Z,2.0,53081.0
+502,-79.25879,43.736045000000004,Scarborough,Eglinton East,2009.0,Other,2009-11-03T05:00:00.000Z,14.0,53081.0
+503,-79.232578,43.741534,Scarborough,Eglinton East,2018.0, ,2018-11-25T05:00:00.000Z,17.0,53081.0
+504,-79.24369,43.737645,Scarborough,Eglinton East,2008.0,Other,2008-01-05T05:00:00.000Z,18.0,53081.0
+505,-79.24737900000001,43.735163,Scarborough,Eglinton East,2015.0, ,2015-05-13T04:00:00.000Z,22.0,53081.0
+506,-79.244701,43.737418,Scarborough,Eglinton East,2013.0, ,2013-11-24T05:00:00.000Z,10.0,53081.0
+507,-79.258769,43.736033,Scarborough,Eglinton East,2014.0, ,2014-11-06T05:00:00.000Z,12.0,53081.0
+508,-79.24239,43.737945,Scarborough,Eglinton East,2008.0,"Automobile, Station Wagon",2008-07-04T04:00:00.000Z,13.0,53081.0
+509,-79.422687,43.654345,Toronto and East York,Trinity-Bellwoods,2008.0,Other,2008-04-13T04:00:00.000Z,2.0,71812.0
+510,-79.412013,43.655574,Toronto and East York,Trinity-Bellwoods,2014.0, ,2014-11-27T05:00:00.000Z,14.0,71812.0
+511,-79.411594,43.651168,Toronto and East York,Trinity-Bellwoods,2013.0, ,2013-12-05T05:00:00.000Z,17.0,71812.0
+512,-79.409488,43.656096000000005,Toronto and East York,Trinity-Bellwoods,2016.0, ,2016-11-02T04:00:00.000Z,19.0,71812.0
+513,-79.422664,43.654326,Toronto and East York,Trinity-Bellwoods,2017.0,Bicycle,2017-12-20T05:00:00.000Z,11.0,71812.0
+514,-79.19795500000001,43.84878,Scarborough,Rouge,2016.0,"Automobile, Station Wagon",2016-08-14T04:00:00.000Z,2.0,101482.0
+515,-79.194843,43.803004,Scarborough,Rouge,2017.0,"Automobile, Station Wagon",2017-08-10T04:00:00.000Z,18.0,101482.0
+516,-79.24901899999999,43.83705,Scarborough,Rouge,2017.0, ,2017-08-27T04:00:00.000Z,20.0,101482.0
+517,-79.19869,43.802245,Scarborough,Rouge,2008.0,"Automobile, Station Wagon",2008-12-13T05:00:00.000Z,21.0,101482.0
+518,-79.171031,43.808852,Scarborough,Rouge,2015.0, ,2015-08-09T04:00:00.000Z,21.0,101482.0
+519,-79.246181,43.820227,Scarborough,Rouge,2016.0, ,2016-03-31T04:00:00.000Z,21.0,101482.0
+520,-79.24579,43.819445,Scarborough,Rouge,2008.0,Other,2008-09-08T04:00:00.000Z,21.0,101482.0
+521,-79.245151,43.837934999999995,Scarborough,Rouge,2018.0, ,2018-01-07T05:00:00.000Z,21.0,101482.0
+522,-79.50246700000001,43.622645,Etobicoke York,Stonegate-Queensway,2015.0,"Automobile, Station Wagon",2015-06-13T04:00:00.000Z,3.0,85138.0
+523,-79.507747,43.648158,Etobicoke York,Stonegate-Queensway,2016.0, ,2016-11-06T04:00:00.000Z,11.0,85138.0
+524,-79.40224,43.725344,North York,Lawrence Park North,2017.0, ,2017-10-05T04:00:00.000Z,3.0,144963.0
+525,-79.41439,43.728645,North York,Lawrence Park North,2012.0,Other,2012-12-03T05:00:00.000Z,15.0,144963.0
+526,-79.4864,43.653998,Toronto and East York,Runnymede-Bloor West Village,2016.0, ,2016-04-23T04:00:00.000Z,3.0,93586.0
+527,-79.49119,43.665745,Toronto and East York,Runnymede-Bloor West Village,2010.0,Other,2010-07-16T04:00:00.000Z,16.0,93586.0
+528,-79.49119,43.665745,Toronto and East York,Runnymede-Bloor West Village,2010.0,Other,2010-07-16T04:00:00.000Z,16.0,93586.0
+529,-79.46769,43.681845,Toronto and East York,Keelesdale-Eglinton West,2012.0,"Automobile, Station Wagon",2012-10-14T04:00:00.000Z,4.0,57780.0
+530,-79.48286800000001,43.688357,Etobicoke York,Keelesdale-Eglinton West,2016.0,"Automobile, Station Wagon",2016-01-06T05:00:00.000Z,14.0,57780.0
+531,-79.47280400000001,43.684897,Etobicoke York,Keelesdale-Eglinton West,2015.0, ,2015-10-23T04:00:00.000Z,14.0,57780.0
+532,-79.467433,43.688113,Etobicoke York,Keelesdale-Eglinton West,2016.0,"Automobile, Station Wagon",2016-05-30T04:00:00.000Z,17.0,57780.0
+533,-79.46649000000001,43.682045,Toronto and East York,Keelesdale-Eglinton West,2008.0,"Automobile, Station Wagon",2008-01-25T05:00:00.000Z,18.0,57780.0
+534,-79.472026,43.683169,Etobicoke York,Keelesdale-Eglinton West,2018.0,Motorcycle,2018-09-18T04:00:00.000Z,18.0,57780.0
+535,-79.49739,43.707345000000004,Etobicoke York,Rustic/Pelmo Park/Humberlea,2011.0,"Automobile, Station Wagon",2011-07-08T04:00:00.000Z,4.0,55839.0
+536,-79.53559,43.726445,Etobicoke York,Rustic/Pelmo Park/Humberlea,2008.0,Other,2008-02-29T05:00:00.000Z,15.0,55839.0
+537,-79.53559,43.726445,Etobicoke York,Rustic/Pelmo Park/Humberlea,2008.0,"Automobile, Station Wagon",2008-02-29T05:00:00.000Z,15.0,55839.0
+538,-79.52599000000001,43.703245,Etobicoke York,Weston,2010.0,"Automobile, Station Wagon",2010-09-15T04:00:00.000Z,4.0,45696.0
+539,-79.50589000000001,43.696745,Etobicoke York,Weston,2008.0,Other,2008-10-25T04:00:00.000Z,23.0,45696.0
+540,-79.52009,43.667145,Etobicoke York,Edenbridge-Humber Valley,2011.0,"Automobile, Station Wagon",2011-08-22T04:00:00.000Z,5.0,84113.0
+541,-79.52972,43.68162,Etobicoke York,Edenbridge-Humber Valley,2018.0,"Automobile, Station Wagon",2018-01-07T05:00:00.000Z,18.0,84113.0
+542,-79.517581,43.661376000000004,Etobicoke York,Edenbridge-Humber Valley,2016.0,Motorcycle,2016-07-22T04:00:00.000Z,19.0,84113.0
+543,-79.37689,43.672345,Toronto and East York,North St.James Town,2009.0,Other,2009-10-02T04:00:00.000Z,14.0,41016.0
+544,-79.37889399999999,43.667636,Toronto and East York,North St.James Town,2017.0, ,2017-03-18T04:00:00.000Z,19.0,41016.0
+545,-79.429813,43.719248,North York,Bedford Park-Nortown,2015.0, ,2015-12-02T05:00:00.000Z,14.0,116672.0
+546,-79.417888,43.727843,North York,Bedford Park-Nortown,2013.0, ,2013-04-16T04:00:00.000Z,14.0,116672.0
+547,-79.42059,43.737545000000004,North York,Bedford Park-Nortown,2008.0,Other,2008-01-07T05:00:00.000Z,17.0,116672.0
+548,-79.415889,43.722941,North York,Bedford Park-Nortown,2018.0,"Automobile, Station Wagon",2018-11-01T04:00:00.000Z,17.0,116672.0
+549,-79.431415,43.726615,North York,Bedford Park-Nortown,2015.0, ,2015-11-30T05:00:00.000Z,17.0,116672.0
+550,-79.419765,43.734460999999996,North York,Bedford Park-Nortown,2016.0, ,2016-05-01T04:00:00.000Z,20.0,116672.0
+551,-79.41829200000001,43.742343,North York,Bedford Park-Nortown,2012.0,Other,2012-05-27T04:00:00.000Z,12.0,116672.0
+552,-79.267925,43.732192,Scarborough,Kennedy Park,2016.0, ,2016-06-06T04:00:00.000Z,14.0,51028.0
+553,-79.257442,43.720403999999995,Scarborough,Kennedy Park,2015.0, ,2015-02-05T05:00:00.000Z,17.0,51028.0
+554,-79.260188,43.734049,Scarborough,Kennedy Park,2016.0, ,2016-10-02T04:00:00.000Z,19.0,51028.0
+555,-79.24899,43.736445,Scarborough,Kennedy Park,2012.0,Other,2012-07-13T04:00:00.000Z,21.0,51028.0
+556,-79.260021,43.734023,Scarborough,Kennedy Park,2017.0, ,2017-07-18T04:00:00.000Z,10.0,51028.0
+557,-79.25435999999999,43.735331,Scarborough,Kennedy Park,2016.0, ,2016-10-02T04:00:00.000Z,10.0,51028.0
+558,-79.258098,43.734519,Scarborough,Kennedy Park,2016.0, ,2016-10-12T04:00:00.000Z,11.0,51028.0
+559,-79.396922,43.687509999999996,Toronto and East York,Yonge-St.Clair,2013.0, ,2013-11-15T05:00:00.000Z,14.0,80136.0
+560,-79.396793,43.687525,Toronto and East York,Yonge-St.Clair,2014.0, ,2014-09-18T04:00:00.000Z,20.0,80136.0
+561,-79.39979,43.686945,Toronto and East York,Yonge-St.Clair,2009.0,Other,2009-05-01T04:00:00.000Z,12.0,80136.0
+562,-79.452075,43.702281,North York,Briar Hill-Belgravia,2018.0, ,2018-06-11T04:00:00.000Z,15.0,60899.0
+563,-79.451724,43.700686,North York,Briar Hill-Belgravia,2018.0, ,2018-09-20T04:00:00.000Z,16.0,60899.0
+564,-79.53139,43.604745,Etobicoke York,Alderwood,2010.0,Other,2010-03-02T05:00:00.000Z,16.0,83249.0
+565,-79.55511,43.725997,Etobicoke York,Elms-Old Rexdale,2014.0,Motorcycle,2014-10-01T04:00:00.000Z,16.0,59576.0
+566,-79.325069,43.705802,Toronto and East York,O'Connor-Parkview,2013.0,Other,2013-11-03T04:00:00.000Z,16.0,59729.0
+567,-79.497989,43.602343,Etobicoke York,New Toronto,2013.0,Bicycle,2013-09-18T04:00:00.000Z,16.0,50891.0
+568,-79.504077,43.600909,Etobicoke York,New Toronto,2018.0,Other,2018-09-11T04:00:00.000Z,17.0,50891.0
+569,-79.51075300000001,43.602278000000005,Etobicoke York,New Toronto,2016.0,"Automobile, Station Wagon",2016-07-12T04:00:00.000Z,17.0,50891.0
+570,-79.512874,43.599005,Etobicoke York,New Toronto,2018.0, ,2018-05-15T04:00:00.000Z,22.0,50891.0
+571,-79.521175,43.599963,Etobicoke York,New Toronto,2016.0,"Automobile, Station Wagon",2016-02-01T05:00:00.000Z,10.0,50891.0
+572,-79.50639,43.600445,Etobicoke York,New Toronto,2011.0,Other,2011-08-02T04:00:00.000Z,12.0,50891.0
+573,-79.448695,43.76113,North York,Bathurst Manor,2015.0, ,2015-09-05T04:00:00.000Z,16.0,69634.0
+574,-79.446689,43.756312,North York,Bathurst Manor,2017.0, ,2017-09-05T04:00:00.000Z,18.0,69634.0
+575,-79.42839000000001,43.682945000000004,Toronto and East York,Humewood-Cedarvale,2010.0,Other,2010-11-26T05:00:00.000Z,17.0,61110.0
+576,-79.427036,43.700666999999996,Toronto and East York,Humewood-Cedarvale,2016.0, ,2016-09-30T04:00:00.000Z,19.0,61110.0
+577,-79.42775300000001,43.700518,Toronto and East York,Humewood-Cedarvale,2013.0, ,2013-10-30T04:00:00.000Z,10.0,61110.0
+578,-79.427661,43.681227,Toronto and East York,Wychwood,2016.0, ,2016-09-21T04:00:00.000Z,17.0,66089.0
+579,-79.428859,43.681033,Toronto and East York,Wychwood,2015.0, ,2015-03-20T04:00:00.000Z,20.0,66089.0
+580,-79.430972,43.674712,Toronto and East York,Wychwood,2016.0, ,2016-10-12T04:00:00.000Z,11.0,66089.0
+581,-79.495136,43.685427000000004,Etobicoke York,Mount Dennis,2017.0, ,2017-12-18T05:00:00.000Z,17.0,52162.0
+582,-79.50099,43.691545,Etobicoke York,Mount Dennis,2012.0,Other,2012-03-21T04:00:00.000Z,22.0,52162.0
+583,-79.31159,43.693645000000004,Toronto and East York,Woodbine-Lumsden,2008.0,Other,2008-10-17T04:00:00.000Z,17.0,74608.0
+584,-79.315616,43.696753,Toronto and East York,Woodbine-Lumsden,2016.0, ,2016-12-01T05:00:00.000Z,13.0,74608.0
+585,-79.443141,43.716181,North York,Englemount-Lawrence,2018.0, ,2018-11-20T05:00:00.000Z,18.0,58003.0
+586,-79.443202,43.716307,North York,Englemount-Lawrence,2014.0, ,2014-10-11T04:00:00.000Z,10.0,58003.0
+587,-79.541393,43.685214,Etobicoke York,Willowridge-Martingrove-Richview,2015.0, ,2015-10-10T04:00:00.000Z,19.0,71584.0
+588,-79.56499000000001,43.684345,Etobicoke York,Willowridge-Martingrove-Richview,2008.0,Other,2008-01-05T05:00:00.000Z,19.0,71584.0
+589,-79.55945899999999,43.69047,Etobicoke York,Willowridge-Martingrove-Richview,2015.0,"Automobile, Station Wagon",2015-05-27T04:00:00.000Z,21.0,71584.0
+590,-79.455066,43.771440999999996,North York,Westminster-Branson,2013.0, ,2013-10-05T04:00:00.000Z,19.0,54101.0
+591,-79.44669,43.788245,North York,Westminster-Branson,2008.0,Other,2008-02-24T05:00:00.000Z,21.0,54101.0
+592,-79.46399,43.788445,North York,Westminster-Branson,2008.0,"Automobile, Station Wagon",2008-07-11T04:00:00.000Z,21.0,54101.0
+593,-79.44589,43.792345000000005,North York,Westminster-Branson,2011.0,Other,2011-06-29T04:00:00.000Z,11.0,54101.0
+594,-79.45302099999999,43.790801,North York,Westminster-Branson,2015.0, ,2015-08-24T04:00:00.000Z,13.0,54101.0
+595,-79.35718100000001,43.682852000000004,Toronto and East York,Broadview North,2017.0, ,2017-09-20T04:00:00.000Z,19.0,52731.0
+596,-79.36239,43.682345,Toronto and East York,Broadview North,2011.0,"Automobile, Station Wagon",2011-11-10T05:00:00.000Z,11.0,52731.0
+597,-79.41219,43.677645,Toronto and East York,Casa Loma,2008.0,Other,2008-07-13T04:00:00.000Z,20.0,93022.0
+598,-79.41469000000001,43.673945,Toronto and East York,Casa Loma,2010.0,Other,2010-12-23T05:00:00.000Z,20.0,93022.0
+599,-79.58357600000001,43.660464000000005,Etobicoke York,Eringate-Centennial-West Deane,2014.0,Motorcycle,2014-05-08T04:00:00.000Z,21.0,88872.0
+600,-79.56319,43.674445,Etobicoke York,Eringate-Centennial-West Deane,2010.0,Other,2010-01-12T05:00:00.000Z,12.0,88872.0
+601,-79.438091,43.640776,Toronto and East York,Roncesvalles,2016.0, ,2016-02-18T05:00:00.000Z,22.0,63130.0
+602,-79.45179,43.653845000000004,Toronto and East York,Roncesvalles,2010.0,Other,2010-01-12T05:00:00.000Z,13.0,63130.0
+603,-79.449046,43.646327,Toronto and East York,Roncesvalles,2009.0,Other,2009-04-20T04:00:00.000Z,13.0,63130.0
+604,-79.479564,43.715346000000004,Etobicoke York,Maple Leaf,2015.0,"Automobile, Station Wagon",2015-08-04T04:00:00.000Z,11.0,62976.0
+605,-79.40669,43.744145,North York,St.Andrew-Windfields,2010.0,"Automobile, Station Wagon",2010-07-29T04:00:00.000Z,11.0,98420.0
+606,-79.341022,43.756446000000004,North York,Parkwoods-Donalda,2016.0, ,2016-10-11T04:00:00.000Z,11.0,65126.0
+607,-79.331226,43.775088000000004,North York,Henry Farm,2014.0,Passenger Van,2014-01-26T05:00:00.000Z,13.0,56644.0
+608,-79.337749,43.77582,North York,Henry Farm,2014.0, ,2014-12-12T05:00:00.000Z,13.0,56644.0
+609,-79.32359,43.683345,Toronto and East York,Woodbine Corridor,2008.0,Other,2008-07-14T04:00:00.000Z,13.0,72792.0
+610,,,,,,,,,

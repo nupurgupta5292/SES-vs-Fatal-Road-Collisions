@@ -1,101 +1,101 @@
-Neighbourhood,Number of Collisions,Median Income,Longitude,Latitude,City
-Lawrence Park South,4,151885.0,-79.411693,43.712046,Toronto
-Kingsway South,1,151552.0,-79.509113,43.65729,Toronto
-Lawrence Park North,2,144963.0,-79.40224,43.725344,Toronto
-Leaside-Bennington,4,126930.0,-79.361987,43.692008,Toronto
-Forest Hill South,3,119484.0,-79.424945,43.699484999999996,Toronto
-Bedford Park-Nortown,7,116672.0,-79.429813,43.719248,Toronto
-Rosedale-Moore Park,9,106194.0,-79.382312,43.679423,Toronto
-Rouge,8,101482.0,-79.19795500000001,43.84878,Toronto
-The Beaches,5,100365.0,-79.326206,43.664164,Toronto
-St.Andrew-Windfields,1,98420.0,-79.40669,43.744145,Toronto
-Runnymede-Bloor West Village,3,93586.0,-79.4864,43.653998,Toronto
-Mount Pleasant East,3,93566.0,-79.39019,43.708445000000005,Toronto
-Casa Loma,2,93022.0,-79.41219,43.677645,Toronto
-Banbury-Don Mills/York Mills,9,90620.0,-79.340846,43.727645,Toronto
-Eringate-Centennial-West Deane,2,88872.0,-79.58357600000001,43.660464000000005,Toronto
-Guildwood,2,87538.0,-79.20591999999999,43.749583,Toronto
-Stonegate-Queensway,2,85138.0,-79.50246700000001,43.622645,Toronto
-Edenbridge-Humber Valley,3,84113.0,-79.52009,43.667145,Toronto
-Alderwood,1,83249.0,-79.53139,43.604745,Toronto
-High Park-Swansea,6,82753.0,-79.469287,43.637206,Toronto
-Danforth Village-East York,3,81253.0,-79.332736,43.689231,Toronto
-Yonge-Eglinton,3,80896.0,-79.410945,43.704074,Toronto
-Lansing-Westgate,1,80384.0,-79.437747,43.752669,Toronto
-Yonge-St.Clair,3,80136.0,-79.396922,43.687509999999996,Toronto
-Waterfront Communities-The Island,14,78479.0,-79.39499,43.645445,Toronto
-Old East York,3,77824.0,-79.33849000000001,43.693845,Toronto
-Riverdale,16,77819.0,-79.334277,43.666098,Toronto
-Cliffcrest,5,75291.0,-79.247051,43.719565,Toronto
-Woodbine-Lumsden,2,74608.0,-79.31159,43.693645000000004,Toronto
-Bayview Woods-Steeles/Hillcrest Village,15,74082.0,-79.31689,43.821345,Toronto
-High Park North,3,73547.0,-79.45589,43.662445,Toronto
-Birchcliffe-Cliffside,7,73216.0,-79.254787,43.706175,Toronto
-Woodbine Corridor,1,72792.0,-79.32359,43.683345,Toronto
-Markland Wood,3,72429.0,-79.56239000000001,43.627345,Toronto
-Trinity-Bellwoods,5,71812.0,-79.422687,43.654345,Toronto
-Willowridge-Martingrove-Richview,3,71584.0,-79.541393,43.685214,Toronto
-Forest Hill North,2,70920.0,-79.42094,43.708262,Toronto
-West Humber-Clairville,26,70741.0,-79.58712299999999,43.699228999999995,Toronto
-Clanton Park,10,69997.0,-79.44449,43.746845,Toronto
-Bathurst Manor,2,69634.0,-79.448695,43.76113,Toronto
-Islington-City Centre West,11,69274.0,-79.560214,43.621218,Toronto
-Humber Heights-Westmount,5,68996.0,-79.532726,43.696154,Toronto
-Clairlea-Birchmount,16,68524.0,-79.259883,43.716772999999996,Toronto
-Agincourt/Malvern,25,68108.0,-79.22759,43.816245,Toronto
-Annex,6,67995.0,-79.394183,43.675101,Toronto
-Mimico,4,67525.0,-79.481792,43.623171,Toronto
-Bayview Village,4,67355.0,-79.39149,43.782045000000004,Toronto
-Wychwood,3,66089.0,-79.427661,43.681227,Toronto
-Caledonia-Fairbank,5,66048.0,-79.450549,43.691016,Toronto
-Don Valley Village,8,65714.0,-79.352275,43.793151,Toronto
-Dovercourt/Davenport/Junction,14,65167.0,-79.448291,43.671546,Toronto
-Parkwoods-Donalda,1,65126.0,-79.341022,43.756446000000004,Toronto
-Yorkdale-Glen Park,3,63778.0,-79.45329,43.714145,Toronto
-Dufferin Grove/Little Portugal,8,63479.0,-79.43739000000001,43.652745,Toronto
-South Parkdale/King West,21,63425.0,-79.447742,43.637614,Toronto
-Rexdale-Kipling,2,63232.0,-79.574641,43.728128999999996,Toronto
-Roncesvalles,3,63130.0,-79.438091,43.640776,Toronto
-Maple Leaf,1,62976.0,-79.479564,43.715346000000004,Toronto
-L'Amoreaux/Steeles/Milliken,14,62871.0,-79.315753,43.796763,Toronto
-Wexford/Maryvale,12,62837.0,-79.30459,43.743245,Toronto
-Willowdale East,14,61725.0,-79.413997,43.789603,Toronto
-Long Branch,4,61536.0,-79.542079,43.592673,Toronto
-Cabbagetown-South St.James Town,5,61184.0,-79.36584,43.671626,Toronto
-Humewood-Cedarvale,3,61110.0,-79.42839000000001,43.682945000000004,Toronto
-Briar Hill-Belgravia,2,60899.0,-79.452075,43.702281,Toronto
-Kingsview Village-The Westway,3,60824.0,-79.54669,43.697045,Toronto
-Bendale,8,60292.0,-79.247493,43.755103000000005,Toronto
-O'Connor-Parkview,1,59729.0,-79.325069,43.705802,Toronto
-Elms-Old Rexdale,1,59576.0,-79.55511,43.725997,Toronto
-Woburn,7,58921.0,-79.235263,43.757712,Toronto
-Tam O'Shanter-Sullivan,6,58246.0,-79.29219,43.782345,Toronto
-Englemount-Lawrence,2,58003.0,-79.443141,43.716181,Toronto
-Dorset Park,8,57986.0,-79.29131600000001,43.765433,Toronto
-Keelesdale-Eglinton West,6,57780.0,-79.46769,43.681845,Toronto
-Mount Olive-Silverstone-Jamestown,16,57414.0,-79.564769,43.766535,Toronto
-Willowdale West,11,56942.0,-79.43289,43.781245,Toronto
-Henry Farm,2,56644.0,-79.331226,43.775088000000004,Toronto
-Church-Yonge Corridor,1,56366.0,-79.379863,43.655387,Toronto
-Downsview-Roding-CFB,11,56053.0,-79.467212,43.751868,Toronto
-West Hill,4,56051.0,-79.166332,43.772868,Toronto
-Rustic/Pelmo Park/Humberlea,3,55839.0,-79.49739,43.707345000000004,Toronto
-Rockcliffe-Smythe,5,54908.0,-79.49949000000001,43.666945,Toronto
-Westminster-Branson,5,54101.0,-79.455066,43.771440999999996,Toronto
-Ionview,4,53177.0,-79.272052,43.742171,Toronto
-Eglinton East,9,53081.0,-79.250186,43.741065,Toronto
-Brookhaven-Amesbury,4,52988.0,-79.49899,43.697345,Toronto
-Broadview North,2,52731.0,-79.35718100000001,43.682852000000004,Toronto
-Morningside,6,52721.0,-79.211902,43.777968,Toronto
-Mount Dennis,2,52162.0,-79.495136,43.685427000000004,Toronto
-Black Creek,10,51999.0,-79.519672,43.765898,Toronto
-Victoria Village,18,51867.0,-79.51343100000001,43.758047999999995,Toronto
-Kennedy Park,7,51028.0,-79.267925,43.732192,Toronto
-New Toronto,6,50891.0,-79.497989,43.602343,Toronto
-Scarborough Village,5,49568.0,-79.21779000000001,43.738145,Toronto
-Moss Park/Regent Park,12,49252.0,-79.37099,43.658221000000005,Toronto
-Flemingdon Park,7,48917.0,-79.15869,43.788645,Toronto
-Bay Street Corridor,6,48737.0,-79.389987,43.658744,Toronto
-Weston,2,45696.0,-79.52599000000001,43.703245,Toronto
-Kensington-Chinatown,10,44216.0,-79.397853,43.652507,Toronto
-North St.James Town,2,41016.0,-79.37689,43.672345,Toronto
+Neighbourhood,Number of Collisions,Latitude,Longitude,Median Income,District,Population,City
+Lawrence Park South,4,43.712046,-79.411693,151885.0,North York,16828.0,Toronto
+Kingsway South,1,43.65729,-79.509113,151552.0,Etobicoke York,9271.0,Toronto
+Lawrence Park North,2,43.725344,-79.40224,144963.0,North York,15179.0,Toronto
+Leaside-Bennington,4,43.692008,-79.361987,126930.0,Toronto and East York,10084.0,Toronto
+Forest Hill South,3,43.699484999999996,-79.424945,119484.0,Toronto and East York,10732.0,Toronto
+Bedford Park-Nortown,7,43.719248,-79.429813,116672.0,North York,30088.0,Toronto
+Rosedale-Moore Park,9,43.679423,-79.382312,106194.0,Toronto and East York,46496.0,Toronto
+Rouge,8,43.84878,-79.19795500000001,101482.0,Scarborough,18055.0,Toronto
+The Beaches,5,43.664164,-79.326206,100365.0,Toronto and East York,21567.0,Toronto
+St.Andrew-Windfields,1,43.744145,-79.40669,98420.0,North York,17812.0,Toronto
+Runnymede-Bloor West Village,3,43.653998,-79.4864,93586.0,Toronto and East York,111006.0,Toronto
+Mount Pleasant East,3,43.708445000000005,-79.39019,93566.0,Toronto and East York,11463.0,Toronto
+Casa Loma,2,43.677645,-79.41219,93022.0,Toronto and East York,31165.0,Toronto
+Banbury-Don Mills/York Mills,9,43.727645,-79.340846,90620.0,North York,38133.0,Toronto
+Eringate-Centennial-West Deane,2,43.660464000000005,-79.58357600000001,88872.0,Etobicoke York,22372.0,Toronto
+Guildwood,2,43.749583,-79.20591999999999,87538.0,Scarborough,9917.0,Toronto
+Stonegate-Queensway,2,43.622645,-79.50246700000001,85138.0,Etobicoke York,25051.0,Toronto
+Edenbridge-Humber Valley,3,43.667145,-79.52009,84113.0,Etobicoke York,41170.0,Toronto
+Alderwood,1,43.604745,-79.53139,83249.0,Etobicoke York,12054.0,Toronto
+High Park-Swansea,6,43.637206,-79.469287,82753.0,Toronto and East York,23925.0,Toronto
+Danforth Village-East York,3,43.689231,-79.332736,81253.0,Toronto and East York,15935.0,Toronto
+Yonge-Eglinton,3,43.704074,-79.410945,80896.0,Toronto and East York,11817.0,Toronto
+Lansing-Westgate,1,43.752669,-79.437747,80384.0,North York,14607.0,Toronto
+Yonge-St.Clair,3,43.687509999999996,-79.396922,80136.0,Toronto and East York,12528.0,Toronto
+Waterfront Communities-The Island,14,43.645445,-79.39499,78479.0,Toronto and East York,65913.0,Toronto
+Old East York,3,43.693845,-79.33849000000001,77824.0,Toronto and East York,34805.0,Toronto
+Riverdale,16,43.666098,-79.334277,77819.0,Toronto and East York,22246.0,Toronto
+Cliffcrest,5,43.719565,-79.247051,75291.0,Scarborough,16472.0,Toronto
+Woodbine-Lumsden,2,43.693645000000004,-79.31159,74608.0,Toronto and East York,7865.0,Toronto
+Bayview Woods-Steeles/Hillcrest Village,15,43.821345,-79.31689,74082.0,Scarborough,21396.0,Toronto
+High Park North,3,43.662445,-79.45589,73547.0,Toronto and East York,22162.0,Toronto
+Birchcliffe-Cliffside,7,43.706175,-79.254787,73216.0,Scarborough,29960.0,Toronto
+Woodbine Corridor,1,43.683345,-79.32359,72792.0,Toronto and East York,12541.0,Toronto
+Markland Wood,3,43.627345,-79.56239000000001,72429.0,Etobicoke York,30436.0,Toronto
+Trinity-Bellwoods,5,43.654345,-79.422687,71812.0,Toronto and East York,10111.0,Toronto
+Willowridge-Martingrove-Richview,3,43.685214,-79.541393,71584.0,Etobicoke York,22156.0,Toronto
+Forest Hill North,2,43.708262,-79.42094,70920.0,North York,12806.0,Toronto
+West Humber-Clairville,26,43.699228999999995,-79.58712299999999,70741.0,Etobicoke York,71633.0,Toronto
+Clanton Park,10,43.746845,-79.44449,69997.0,North York,26984.0,Toronto
+Bathurst Manor,2,43.76113,-79.448695,69634.0,North York,36961.0,Toronto
+Islington-City Centre West,11,43.621218,-79.560214,69274.0,Etobicoke York,43965.0,Toronto
+Humber Heights-Westmount,5,43.696154,-79.532726,68996.0,Etobicoke York,10948.0,Toronto
+Clairlea-Birchmount,16,43.716772999999996,-79.259883,68524.0,Scarborough,31340.0,Toronto
+Agincourt/Malvern,25,43.816245,-79.22759,68108.0,Scarborough,96664.0,Toronto
+Annex,6,43.675101,-79.394183,67995.0,Toronto and East York,16556.0,Toronto
+Mimico,4,43.623171,-79.481792,67525.0,Etobicoke York,29949.0,Toronto
+Bayview Village,4,43.782045000000004,-79.39149,67355.0,North York,25797.0,Toronto
+Wychwood,3,43.681227,-79.427661,66089.0,Toronto and East York,14349.0,Toronto
+Caledonia-Fairbank,5,43.691016,-79.450549,66048.0,Toronto and East York,11669.0,Toronto
+Don Valley Village,8,43.793151,-79.352275,65714.0,North York,76346.0,Toronto
+Dovercourt/Davenport/Junction,14,43.671546,-79.448291,65167.0,Toronto and East York,25003.0,Toronto
+Parkwoods-Donalda,1,43.756446000000004,-79.341022,65126.0,North York,10529.0,Toronto
+Yorkdale-Glen Park,3,43.714145,-79.45329,63778.0,North York,14804.0,Toronto
+Dufferin Grove/Little Portugal,8,43.652745,-79.43739000000001,63479.0,Toronto and East York,65543.0,Toronto
+South Parkdale/King West,21,43.637614,-79.447742,63425.0,Toronto and East York,53029.0,Toronto
+Rexdale-Kipling,2,43.728128999999996,-79.574641,63232.0,Etobicoke York,39792.0,Toronto
+Roncesvalles,3,43.640776,-79.438091,63130.0,Toronto and East York,20923.0,Toronto
+Maple Leaf,1,43.715346000000004,-79.479564,62976.0,Etobicoke York,33964.0,Toronto
+L'Amoreaux/Steeles/Milliken,14,43.796763,-79.315753,62871.0,Scarborough,16164.0,Toronto
+Wexford/Maryvale,12,43.743245,-79.30459,62837.0,Scarborough,27917.0,Toronto
+Willowdale East,14,43.789603,-79.413997,61725.0,North York,66531.0,Toronto
+Long Branch,4,43.592673,-79.542079,61536.0,Etobicoke York,10554.0,Toronto
+Cabbagetown-South St.James Town,5,43.671626,-79.36584,61184.0,Toronto and East York,17757.0,Toronto
+Humewood-Cedarvale,3,43.682945000000004,-79.42839000000001,61110.0,Toronto and East York,14365.0,Toronto
+Briar Hill-Belgravia,2,43.702281,-79.452075,60899.0,North York,21737.0,Toronto
+Kingsview Village-The Westway,3,43.697045,-79.54669,60824.0,Etobicoke York,22000.0,Toronto
+Bendale,8,43.755103000000005,-79.247493,60292.0,Scarborough,23236.0,Toronto
+O'Connor-Parkview,1,43.705802,-79.325069,59729.0,Toronto and East York,17180.0,Toronto
+Elms-Old Rexdale,1,43.725997,-79.55511,59576.0,Etobicoke York,22776.0,Toronto
+Woburn,7,43.757712,-79.235263,58921.0,Scarborough,53485.0,Toronto
+Tam O'Shanter-Sullivan,6,43.782345,-79.29219,58246.0,Scarborough,27446.0,Toronto
+Englemount-Lawrence,2,43.716181,-79.443141,58003.0,North York,9456.0,Toronto
+Dorset Park,8,43.765433,-79.29131600000001,57986.0,Scarborough,27051.0,Toronto
+Keelesdale-Eglinton West,6,43.681845,-79.46769,57780.0,Toronto and East York,11058.0,Toronto
+Mount Olive-Silverstone-Jamestown,16,43.766535,-79.564769,57414.0,Etobicoke York,16775.0,Toronto
+Willowdale West,11,43.781245,-79.43289,56942.0,North York,40767.0,Toronto
+Henry Farm,2,43.775088000000004,-79.331226,56644.0,North York,15723.0,Toronto
+Church-Yonge Corridor,1,43.655387,-79.379863,56366.0,Toronto and East York,10968.0,Toronto
+Downsview-Roding-CFB,11,43.751868,-79.467212,56053.0,North York,65124.0,Toronto
+West Hill,4,43.772868,-79.166332,56051.0,Scarborough,27392.0,Toronto
+Rustic/Pelmo Park/Humberlea,3,43.707345000000004,-79.49739,55839.0,Etobicoke York,20663.0,Toronto
+Rockcliffe-Smythe,5,43.666945,-79.49949000000001,54908.0,Etobicoke York,14974.0,Toronto
+Westminster-Branson,5,43.771440999999996,-79.455066,54101.0,North York,26274.0,Toronto
+Ionview,4,43.742171,-79.272052,53177.0,Scarborough,29324.0,Toronto
+Eglinton East,9,43.741065,-79.250186,53081.0,Scarborough,28897.0,Toronto
+Brookhaven-Amesbury,4,43.697345,-79.49899,52988.0,Etobicoke York,11499.0,Toronto
+Broadview North,2,43.682852000000004,-79.35718100000001,52731.0,Toronto and East York,14257.0,Toronto
+Morningside,6,43.777968,-79.211902,52721.0,Scarborough,31309.0,Toronto
+Mount Dennis,2,43.685427000000004,-79.495136,52162.0,Etobicoke York,32954.0,Toronto
+Black Creek,10,43.765898,-79.519672,51999.0,Etobicoke York,22291.0,Toronto
+Victoria Village,18,43.758047999999995,-79.51343100000001,51867.0,Etobicoke York,17510.0,Toronto
+Kennedy Park,7,43.732192,-79.267925,51028.0,Scarborough,17123.0,Toronto
+New Toronto,6,43.602343,-79.497989,50891.0,Etobicoke York,18615.0,Toronto
+Scarborough Village,5,43.738145,-79.21779000000001,49568.0,Scarborough,16724.0,Toronto
+Moss Park/Regent Park,12,43.658221000000005,-79.37099,49252.0,Toronto and East York,13593.0,Toronto
+Flemingdon Park,7,43.788645,-79.15869,48917.0,Scarborough,43041.0,Toronto
+Bay Street Corridor,6,43.658744,-79.389987,48737.0,Toronto and East York,43466.0,Toronto
+Weston,2,43.703245,-79.52599000000001,45696.0,Etobicoke York,29090.0,Toronto
+Kensington-Chinatown,10,43.652507,-79.397853,44216.0,Toronto and East York,17945.0,Toronto
+North St.James Town,2,43.672345,-79.37689,41016.0,Toronto and East York,18675.0,Toronto

@@ -1,17 +1,13 @@
 ,Neighbourhoods,Number of Collisions,Median Income,Population,City
-0,Côte-Saint-Luc,2,58935,32448,Montreal
-1,Dollard-Des Ormeaux,2,78981,48899,Montreal
-2,Dorval,3,64689,18980,Montreal
-3,Hampstead,2,122496,6973,Montreal
-4,Kirkland,2,115381,20151,Montreal
-5,Mont-Royal,1,109540,20276,Montreal
-6,Montréal,155,50227,1704694,Montreal
-7,Montréal-Est,2,50318,3850,Montreal
-8,Montréal-Ouest,2,115029,5050,Montreal
-9,Pointe-Claire,4,80242,31380,Montreal
-10,Sainte-Anne-de-Bellevue,2,67200,4958,Montreal
-11,Westmount,2,100153,20312,Montreal
-12,Baie-D'Urfé,,118784,3823,Montreal
-13,Beaconsfield,,123392,19324,Montreal
-14,L'Île-Dorval,,,,Montreal
-15,Senneville,,116224,921,Montreal
+0,Montréal,155.0,50227.0,1704694.0,Montreal
+1,Montréal-Est,2.0,50318.0,3850.0,Montreal
+2,Côte-Saint-Luc,2.0,58935.0,32448.0,Montreal
+3,Dorval,3.0,64689.0,18980.0,Montreal
+4,Sainte-Anne-de-Bellevue,2.0,67200.0,4958.0,Montreal
+5,Dollard-Des Ormeaux,2.0,78981.0,48899.0,Montreal
+6,Pointe-Claire,4.0,80242.0,31380.0,Montreal
+7,Westmount,2.0,100153.0,20312.0,Montreal
+8,Mont-Royal,1.0,109540.0,20276.0,Montreal
+9,Montréal-Ouest,2.0,115029.0,5050.0,Montreal
+10,Kirkland,2.0,115381.0,20151.0,Montreal
+11,Hampstead,2.0,122496.0,6973.0,Montreal

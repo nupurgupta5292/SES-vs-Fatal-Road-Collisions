@@ -15,7 +15,7 @@ Does Socioeconomic status impact number of fatal collisions?
 
 - Additional scatter plot created for Toronto to investigate impact of pedestrian fatalities in each neighbourhood
 
-- GMaps: use google to visualize where accidents occur most frequently
+- GMaps API: use google to visualize where accidents occur most frequently
 
 
 Slides available here:

@@ -1,1 +1,1 @@
-g_key ='AIzaSyDMeVOLrmg6z3Y2nCGxBFsaxyFiVP21hrs'
+g_key ='YOUR KEY HERE'
